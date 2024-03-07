@@ -1985,7 +1985,7 @@
       fetch(path)
         .then(response => {
           if (!response.ok) {
-            history.replaceState(null, document.title, errorPage);
+            window.history.pushState(null, '', errorPage);
           }
         })
         .catch(error => console.error('Error:', error));
