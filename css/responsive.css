@@ -1,0 +1,4465 @@
+﻿
+
+@media screen and (max-width: 767px) {
+	
+
+.top-header-tfn-main {
+		height: auto;
+}
+.tfn {
+	font-size: 12px;
+	padding: 10px 0;
+	text-align: left;
+	width: 100%;
+	margin-top: 0px;
+}
+
+.top-nav-container .navbar {
+	float: right;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.tfn a {
+	font-size: 18px;
+}
+
+.head-logo {
+    padding: 10px 0;
+	width: 40%;
+}
+.navbar-toggler {
+	padding: 3px 8px;
+	font-size: 1.2rem;
+	float: right;
+	margin-top: -48px;
+}
+.top-nav-container {
+    margin-top: 5px;
+}
+.top-nav-container .navbar {
+	float: right;
+	display: block;
+}
+.navbar-toggler-icon {
+	background-image: url("../images/nav.png") !important;
+	background-size: 21px !important;
+}
+
+
+
+.main-nav a {
+	font-size: 20px;
+	margin: 0;
+	padding: 7px 0;
+	border-bottom: 1px solid;
+}
+
+.hero-container .hero-package-main h3 {
+	font-size: 26px;
+	margin-top: 10px;
+}
+	
+.hero-container .hero-package-main p a {
+	font-size: 12px;
+	text-decoration: underline;
+}
+	
+.package-content h3 br {
+	display: none;
+}
+
+.package-content h3 {
+	font-size: 38px;
+	text-align: center;
+}
+	
+.offers-white-box h3 br {
+	display: none;
+}
+	
+.offers-white-box h3 {
+	text-align: center;
+}
+	
+.mvp-sec .mvc-program-box p {
+	text-align: center;
+}
+	
+.package-content {
+	margin-bottom: 20px;
+}
+
+.hero-container .hero-package-main h2 {
+    font-size: 35px;
+    font-style: italic;
+    line-height: 35px;
+	padding-top: 15px;
+}
+.hero-container .hero-package-main h2 sup {
+    font-size: 18px;
+    margin: 0 0 0 8px;
+    top: -11px;
+}
+.hero-container .hero-package-main h4 {
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+.hero-container .hero-package-main .price-div {
+    font-size: 45px;
+}
+	.hero-container .hero-package-main p {
+		width: 100%;
+	}
+	.hero-container .hero-package-main ul {
+    width: 100%;
+}
+	
+.hero-container .hero-package-main ul li {
+	font-size: 17px;
+}
+	
+.tips-sec-content p {
+	margin: 48px 0 20px;
+	padding-right: 0px;
+}
+
+.every-sunday-content h3 {
+	font-size: 20px;
+	line-height: 24px;
+}
+	
+.every-sunday-content p {
+	font-size: 16px;
+	line-height: normal;
+}
+	.hero-container .hero-package-main ul li span {
+		line-height: 15px;
+	}
+.call-now-main {
+	margin-top: 0px;
+	float: none;
+	width: 100%;
+}
+	
+.no-pad-right {
+	padding: 0px 15px 0px !important;
+}
+	
+.business-sec-content h2 sup {
+	font-size: 18px;
+}
+
+.quote-form .SearchformGroup .submitForm {
+	width: 90%;
+}
+
+.business-sec-content .btn-darkblue {
+	width: 100%;
+}
+
+.quote-form h2 {
+	font-size: 30px;
+}
+	
+.every-sunday-content .sunday-content-btn {
+	width: 100%;
+}
+
+.hero-container .hero-package-main h1 {
+	font-size: 50px;
+}
+
+.quote-form {
+	border-radius: 20px;
+}
+	
+.call-now-link {
+	width: 100%;
+}
+.every-sunday {
+	margin-top: 0;
+	padding: 156px 0px 50px;
+	background: url('../images/tvMobileImage.png') no-repeat;
+	border-radius: 20px;
+	background-size: contain;
+	height: auto;
+}
+
+a.btn-outlineBl {
+	width: 100%;
+}
+	.every-sunday-img img {
+		width: 100%;
+	}
+	.more-sports {
+		padding: 50px 0;
+		background-image: url('../images/mobile-sports-sec.jpg');
+		background-color: #314150;
+		height: auto;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		border-radius: 20px;
+	}
+
+	.business-sec-3-content p {
+		text-align: left;
+	}
+
+	.offset-mds-1 {
+		margin-left: 0%;
+	}
+
+	.choice-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.ultimate-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.premier-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.section2-txt {
+		text-align:center;
+	}
+
+	.btd-pkg-sec .chanals-box h2 {
+		font-size: 30px;
+		text-align:center;
+	}
+
+	.business-sec-3-content h2 {
+		text-align: left;
+		font-size: 30px;
+	}
+
+	.more-sports-box {
+		padding: 15px;
+		width: 100%;
+		min-height: auto;
+	}
+
+	.more-sports-box h3 {
+		font-size: 24px;
+	}
+
+	.business-sec-2-content p {
+		text-align: left;
+	}
+
+	.business-sec-content p {
+		text-align: left;
+	}
+	.business-sec-2-content h2 {
+		text-align: left;
+		font-size: 24px;
+	}
+
+	.boxcover h4 {
+		font-size: 12px;
+	}
+
+	.btd-services {
+		background: url('../images/directvbusinessMobile.png') no-repeat;
+		background-color: #314150;
+		height: auto;
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		border-radius: 20px;
+		min-height: 500px;
+	}
+
+	.btd-services-content {
+		padding-top: 155px;
+	}
+
+	.btd-services-content h3 br {
+		display: none;
+	}
+
+	.business-sec-2-content h2 br {
+		display: none;
+	}
+
+	.more-sports .line {
+		display: none;
+	}
+	.more-sports-white-box {
+    min-height: auto;
+    margin-bottom: 10px;
+    padding: 30px;
+    width: 100%;
+}
+.more-sports .order-text, .more-sports .order-text a {
+	font-size: 22px;
+	text-align: left;
+}
+	.availability-sec {
+		padding-top: 0;
+	}
+.tips-sec-content .tips-content-btn {
+	margin-bottom: 7px;
+	width: 100%;
+}
+	
+.footer-privacy-main {
+	height: auto;
+}
+	
+.privacy-text {
+	text-align: center;
+	padding: 15px 0;
+}
+.tips-sec {
+	background-position: -111px -28px;
+	/* background-size: 100%; */
+	padding-bottom: 50px;
+	border-radius: 20px;
+	height: auto;
+}
+
+.every-sunday-content {
+    padding-top: 0px;
+}
+
+.footer-text {
+	font-size: 15px;
+}
+
+.footer-text span {
+	font-size: 16px;
+}
+
+.footer-text br {
+	display: none;
+}
+
+.tips-sec h1 {
+	font-size: 80px;
+	margin: 20px 22px 20px;
+	width: 80%;
+}
+	.footer-content-main {
+		height: auto;
+	}
+	.business-sec-content h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.package-box-main {
+		min-height: auto;
+		margin-bottom: 15px;
+	}
+	.package-box-main ul {
+		min-height: auto;
+	}
+	.big-game-content {
+		margin-top: 0;
+		padding-left: 0px;
+	}
+	.offers-white-box {
+    min-height: auto;
+    padding: 30px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+	.offers-sec {
+    padding: 110px 0 0 0;
+}
+	.mvc-title-img img {
+		width: 100%;
+	}
+	.every-sunday img {
+		width: 100%;
+	}
+	.packages-main .package-note {
+		padding: 0;
+	}
+	.order-today-txt h3 {
+    padding-top: 50px;
+}
+	.white-box-section img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 15px;
+	}
+
+	.big-game-content h3 {
+		font-size: 24px;
+	}
+
+	.navbar-brand {
+		float: left;
+		width: 100%;
+	}
+
+	.big-game-sec {
+		width: 100%;
+		padding-top: 30px;
+		border-radius: 20px;
+	}
+    
+}
+
+@media screen and (max-width: 480px) {
+	
+
+	.top-header-tfn-main {
+			height: auto;
+	}
+	.tfn {
+		font-size: 15px;
+		padding: 10px 0;
+		text-align: center;
+		width: 100%;
+		margin-top: 0px;
+	}
+	
+	.tfn a {
+		font-size: 18px;
+	}
+	
+	.head-logo {
+		padding: 0px 0;
+		margin-top:15px;
+		width: 40%;
+	}
+	.top-nav-container {
+		margin-top: 5px;
+	}
+	.top-nav-container .navbar {
+			width: 100%;
+	}
+	.navbar-toggler-icon {
+		background-image: url("../images/nav.png") !important;
+		background-size: 21px !important;
+	}
+	.main-nav a {
+		font-size: 20px;
+		margin: 0;
+		padding: 7px 0;
+		border-bottom: 1px solid;
+	}
+	
+	.hero-container .hero-package-main h3 {
+		font-size: 26px;
+		margin-top: 10px;
+	}
+		
+	.hero-container .hero-package-main p a {
+		font-size: 12px;
+		text-decoration: underline;
+	}
+		
+	.package-content h3 br {
+		display: none;
+	}
+	
+	.package-content h3 {
+		font-size: 38px;
+		text-align: center;
+	}
+		
+	.offers-white-box h3 br {
+		display: none;
+	}
+		
+	.offers-white-box h3 {
+		text-align: center;
+	}
+		
+	.mvp-sec .mvc-program-box p {
+		text-align: center;
+	}
+		
+	.package-content {
+		margin-bottom: 20px;
+	}
+	
+	.hero-container .hero-package-main h2 {
+		font-size: 35px;
+		font-style: italic;
+		line-height: 35px;
+		padding-top: 15px;
+	}
+	.hero-container .hero-package-main h2 sup {
+		font-size: 18px;
+		margin: 0 0 0 8px;
+		top: -11px;
+	}
+	.hero-container .hero-package-main h4 {
+		font-size: 20px;
+		padding: 15px 0 0;
+	}
+	.hero-container .hero-package-main .price-div {
+		font-size: 45px;
+	}
+		.hero-container .hero-package-main p {
+			width: 100%;
+		}
+		.hero-container .hero-package-main ul {
+		width: 100%;
+	}
+		
+	.hero-container .hero-package-main ul li {
+		font-size: 17px;
+	}
+		
+	.tips-sec-content p {
+		margin: 48px 0 20px;
+		padding-right: 0px;
+	}
+	
+	.every-sunday-content h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+		
+	.every-sunday-content p {
+		font-size: 16px;
+		line-height: normal;
+	}
+		.hero-container .hero-package-main ul li span {
+			line-height: 15px;
+		}
+	.call-now-main {
+		margin-top: 0px;
+		float: none;
+		width: 100%;
+	}
+		
+	.no-pad-right {
+		padding: 0px 15px 0px !important;
+	}
+		
+	.business-sec-content h2 sup {
+		font-size: 18px;
+	}
+	
+	.quote-form .SearchformGroup .submitForm {
+		width: 90%;
+	}
+	
+	.business-sec-content .btn-darkblue {
+		width: 100%;
+	}
+	
+	.quote-form h2 {
+		font-size: 30px;
+	}
+		
+	.every-sunday-content .sunday-content-btn {
+		width: 100%;
+	}
+	
+	.hero-container .hero-package-main h1 {
+		font-size: 50px;
+	}
+	
+	.quote-form {
+		border-radius: 20px;
+	}
+		
+	.call-now-link {
+		width: 100%;
+	}
+	.every-sunday {
+		margin-top: 0;
+		padding: 156px 0px 50px;
+		background: url('../images/tvMobileImage.png') no-repeat;
+		border-radius: 20px;
+		background-size: contain;
+		height: auto;
+		max-width: 94%;
+	}
+
+	.big-game-content p {
+		font-size: 14px;
+		padding: 0 0px 0 0;
+		width: 100%;
+	}
+
+	.big-game-image {
+		float: none;
+		padding-right: 0px;
+		width: 60%;
+		margin: 0 auto;
+	}
+	
+	a.btn-outlineBl {
+		width: 100%;
+	}
+		.every-sunday-img img {
+			width: 100%;
+		}
+		.more-sports {
+			padding: 20px 0;
+			background-image: url('../images/mobile-sports-sec.jpg');
+			background-color: #314150;
+			height: auto;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-radius: 20px;
+			max-width: 94%;
+		}
+	
+		.business-sec-3-content p {
+			text-align: left;
+		}
+	
+		.offset-mds-1 {
+			margin-left: 0%;
+		}
+	
+		.choice-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.ultimate-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.premier-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.section2-txt {
+			text-align:center;
+		}
+	
+		.btd-pkg-sec .chanals-box h2 {
+			font-size: 30px;
+			text-align:center;
+		}
+	
+		.business-sec-3-content h2 {
+			text-align: left;
+			font-size: 30px;
+		}
+	
+		.more-sports-box {
+			padding: 0px;
+			width: 100%;
+			min-height: auto;
+		}
+
+		.btd-pkg-sec {
+			padding: 0 0px;
+		}
+	
+		.more-sports-box h3 {
+			font-size: 24px;
+		}
+	
+		.business-sec-2-content p {
+			text-align: left;
+		}
+	
+		.business-sec-content p {
+			text-align: left;
+		}
+		.business-sec-2-content h2 {
+			text-align: left;
+			font-size: 24px;
+		}
+	
+		.boxcover h4 {
+			font-size: 12px;
+		}
+	
+		.btd-services {
+			background: url('../images/directvbusinessMobile.png') no-repeat;
+			background-color: #314150;
+			height: auto;
+			background-position: top;
+			background-repeat: no-repeat;
+			background-size: 100%;
+			border-radius: 25px;
+			min-height: 500px;
+			max-width: 94%;
+		}
+	
+		.btd-services-content {
+			padding-top:210px;
+		}
+	
+		.btd-services-content h3 br {
+			display: none;
+		}
+	
+		.business-sec-2-content h2 br {
+			display: none;
+		}
+	
+		.more-sports .line {
+			display: none;
+		}
+		.more-sports-white-box {
+		min-height: auto;
+		margin-bottom: 10px;
+		padding: 30px;
+		width: 100%;
+	}
+	.more-sports .order-text, .more-sports .order-text a {
+		font-size: 22px;
+		text-align: left;
+	}
+		.availability-sec {
+			padding-top: 0;
+		}
+	.tips-sec-content .tips-content-btn {
+		margin-bottom: 7px;
+		width: 100%;
+	}
+		
+	.footer-privacy-main {
+		height: auto;
+	}
+		
+	.privacy-text {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.tips-sec {
+		background-position: -111px -28px;
+		padding-bottom: 50px;
+		border-radius: 20px;
+		height: auto;
+		max-width: 94%;
+	}
+	
+	.every-sunday-content {
+		padding-top: 94px;
+	}
+	
+	.footer-text {
+		font-size: 15px;
+	}
+
+	.footer-text span {
+		font-size: 16px;
+	}
+	
+	.footer-text br {
+		display: none;
+	}
+	
+	.tips-sec h1 {
+		font-size: 80px;
+		margin: 20px 0px 0px;
+		width: 100%;
+	}
+
+	.tips-sec h1 br {
+		display: none;
+	}
+		.footer-content-main {
+			height: auto;
+		}
+		.business-sec-content h2 {
+			font-size: 30px;
+			line-height: 35px;
+		}
+		.package-box-main {
+			min-height: auto;
+			margin-bottom: 15px;
+		}
+		.package-box-main ul {
+			min-height: auto;
+		}
+		.big-game-content {
+			margin-top: 0;
+			padding-left: 0px;
+		}
+		.offers-white-box {
+		min-height: auto;
+		padding: 30px;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+		.offers-sec {
+		padding: 110px 0 0 0;
+	}
+		.mvc-title-img img {
+			width: 100%;
+		}
+		.every-sunday img {
+			width: 100%;
+		}
+		.packages-main .package-note {
+			padding: 0;
+		}
+		.order-today-txt h3 {
+		padding-top: 50px;
+	}
+		.white-box-section img {
+			width: 100%;
+			height: auto;
+			margin-bottom: 15px;
+		}
+	
+		.big-game-content h3 {
+			font-size: 24px;
+		}
+	
+		.navbar-brand {
+			float: left;
+			width: 85%;
+		}
+
+		.big-game-content h3 br {
+		   display: none;
+		}
+	
+		.big-game-sec {
+			width: 94%;
+			padding-top: 30px;
+			border-radius: 20px;
+		}
+		
+}
+
+@media screen and (max-width: 414px) {
+	
+
+	.top-header-tfn-main {
+		height: auto;
+}
+.tfn {
+	font-size: 14px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+	margin-top: 0px;
+}
+
+.boxcover h4 {
+	font-size: 15px;
+}
+
+.tfn a {
+	font-size: 18px;
+}
+
+.head-logo {
+	padding: 10px 0;
+	width: 33%;
+}
+.top-nav-container {
+	margin-top: 5px;
+}
+.top-nav-container .navbar {
+	float: right;
+	display: block;
+}
+.navbar-toggler-icon {
+	background-image: url("../images/nav.png") !important;
+	background-size: 21px !important;
+}
+.main-nav a {
+	font-size: 20px;
+	margin: 0;
+	padding: 7px 0;
+	border-bottom: 1px solid;
+}
+
+.hero-container .hero-package-main h3 {
+	font-size: 26px;
+	margin-top: 10px;
+}
+	
+.hero-container .hero-package-main p a {
+	font-size: 12px;
+	text-decoration: underline;
+}
+	
+.package-content h3 br {
+	display: none;
+}
+
+.package-content h3 {
+	font-size: 38px;
+	text-align: center;
+}
+	
+.offers-white-box h3 br {
+	display: none;
+}
+	
+.offers-white-box h3 {
+	text-align: center;
+}
+	
+.mvp-sec .mvc-program-box p {
+	text-align: center;
+}
+	
+.package-content {
+	margin-bottom: 20px;
+}
+
+.hero-container .hero-package-main h2 {
+	font-size: 35px;
+	font-style: italic;
+	line-height: 35px;
+	padding-top: 15px;
+}
+.hero-container .hero-package-main h2 sup {
+	font-size: 18px;
+	margin: 0 0 0 8px;
+	top: -11px;
+}
+.hero-container .hero-package-main h4 {
+	font-size: 20px;
+	padding: 15px 0 0;
+}
+.hero-container .hero-package-main .price-div {
+	font-size: 45px;
+}
+	.hero-container .hero-package-main p {
+		width: 100%;
+	}
+	.hero-container .hero-package-main ul {
+	width: 100%;
+}
+	
+.hero-container .hero-package-main ul li {
+	font-size: 17px;
+}
+	
+.tips-sec-content p {
+	margin: 0px 0 20px;
+	padding-right: 0px;
+}
+
+.every-sunday-content h3 {
+	font-size: 20px;
+	line-height: 24px;
+}
+	
+.every-sunday-content p {
+	font-size: 16px;
+	line-height: normal;
+	padding-right: 0px;
+}
+	.hero-container .hero-package-main ul li span {
+		line-height: 15px;
+	}
+.call-now-main {
+	margin-top: 0px;
+	float: none;
+	width: 100%;
+}
+	
+.no-pad-right {
+	padding: 0px 15px 0px !important;
+}
+	
+.business-sec-content h2 sup {
+	font-size: 18px;
+}
+
+.quote-form .SearchformGroup .submitForm {
+	width: 90%;
+}
+
+.business-sec-content .btn-darkblue {
+	width: 100%;
+}
+
+.quote-form h2 {
+	font-size: 30px;
+}
+	
+.every-sunday-content .sunday-content-btn {
+	width: 100%;
+}
+
+.hero-container .hero-package-main h1 {
+	font-size: 50px;
+}
+
+.quote-form {
+	border-radius: 20px;
+}
+	
+.call-now-link {
+	width: 100%;
+}
+.every-sunday {
+	margin-top: 0;
+	padding: 156px 0px 50px;
+	background: url('../images/tvMobileImage.png') no-repeat;
+	border-radius: 25px;
+	background-size: contain;
+	height: auto;
+	max-width: 94%;
+}
+
+.big-game-content p {
+	font-size: 14px;
+	padding: 0 0px 0 0;
+}
+
+a.btn-outlineBl {
+	width: 100%;
+}
+	.every-sunday-img img {
+		width: 100%;
+	}
+	.more-sports {
+		padding: 20px 0;
+		background-image: url('../images/mobile-sports-sec.jpg');
+		background-color: #314150;
+		height: auto;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		border-radius: 25px;
+		max-width: 94%;
+	}
+
+	.business-sec-3-content p {
+		text-align: center;
+	}
+
+	.offset-mds-1 {
+		margin-left: 0%;
+	}
+
+	.choice-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.ultimate-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.premier-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.section2-txt {
+		text-align: left;
+	}
+
+	.btd-pkg-sec .chanals-box h2 {
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.business-sec-3-content h2 {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	.btd-services-content h3 {
+		font-size: 24px;
+		line-height: 31px;
+	}
+
+	.btd-services-content p {
+		line-height: 22px;
+	}
+
+	.more-sports-box {
+		padding: 0px;
+		width: 100%;
+		min-height: auto;
+	}
+
+	.btd-pkg-sec {
+		padding: 0 0px;
+	}
+
+	.more-sports-box h3 {
+		font-size: 24px;
+	}
+
+	.business-sec-2-content p {
+		text-align: left;
+	}
+
+	.business-sec-content p {
+		text-align: left;
+	}
+	.business-sec-2-content h2 {
+		text-align: left;
+		font-size: 24px;
+	}
+
+	.btd-services {
+		background: url('../images/directvbusinessMobile.png') no-repeat;
+		background-color: #314150;
+		height: auto;
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		border-radius: 20px;
+		min-height: 400px;
+		max-width: 94%;
+	}
+
+	.btd-services-content {
+		margin-top: 0px;
+		padding-top: 202px;
+	}
+
+	.business-sec-2-content h2 br {
+		display: none;
+	}
+
+	.more-sports .line {
+		display: none;
+	}
+	.more-sports-white-box {
+	min-height: auto;
+	margin-bottom: 10px;
+	padding: 30px;
+	width: 100%;
+}
+.more-sports .order-text, .more-sports .order-text a {
+	font-size: 20px;
+	text-align: left;
+}
+	.availability-sec {
+		padding-top: 0;
+	}
+.tips-sec-content .tips-content-btn {
+	margin-bottom: 7px;
+	width: 100%;
+}
+	
+.footer-privacy-main {
+	height: auto;
+}
+	
+.privacy-text {
+	text-align: center;
+	padding: 15px 0;
+}
+.tips-sec {
+	background-position: -307px -5px;
+	background-size: cover;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	height: auto;
+	max-width: 94%;
+}
+
+.every-sunday-content {
+	margin-top: 0px;
+	padding-top: 75px;
+}
+
+.footer-text {
+	font-size: 15px;
+}
+
+.footer-text span {
+	font-size: 16px;
+}
+
+.footer-text br {
+	display: none;
+}
+
+.tips-sec h1 {
+	font-size: 80px;
+	margin: 0px 0px 20px;
+	width: 100%;
+}
+	.footer-content-main {
+		height: auto;
+	}
+	.business-sec-content h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.package-box-main {
+		min-height: auto;
+		margin-bottom: 15px;
+	}
+	.package-box-main ul {
+		min-height: auto;
+	}
+	.big-game-content {
+		margin-top: 0;
+		padding-left: 0px;
+	}
+	.offers-white-box {
+	min-height: auto;
+	padding: 30px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+	.offers-sec {
+	padding: 110px 0 0 0;
+}
+	.mvc-title-img img {
+		width: 100%;
+	}
+	.every-sunday img {
+		width: 100%;
+	}
+	.packages-main .package-note {
+		padding: 0;
+	}
+	.order-today-txt h3 {
+	padding-top: 50px;
+}
+	.white-box-section img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 15px;
+	}
+
+	.big-game-content h3 {
+		font-size: 24px;
+	}
+
+	.big-game-image {
+		float: none;
+		padding-right: 0px;
+		width: 60%;
+		margin: 0 auto;
+	}
+
+	.big-game-sec {
+		max-width: 94%;
+		padding-top: 30px;
+		border-radius: 25px;
+		margin: 0px auto 20px;
+	}
+		
+}
+
+@media screen and (max-width: 384px) {
+	
+
+	.top-header-tfn-main {
+			height: auto;
+	}
+	.tfn {
+		font-size: 14px;
+		padding: 10px 0;
+		text-align: center;
+		width: 100%;
+		margin-top: 0px;
+	}
+	
+	.boxcover h4 {
+		font-size: 15px;
+	}
+	
+	.tfn a {
+		font-size: 18px;
+	}
+	
+	.head-logo {
+		padding: 0px 0;
+		margin-top: 15px;
+	}
+	.top-nav-container {
+		margin-top: 5px;
+	}
+	.top-nav-container .navbar {
+		float: right;
+		display: block;
+	}
+	.navbar-toggler-icon {
+		background-image: url("../images/nav.png") !important;
+		background-size: 21px !important;
+	}
+	.main-nav a {
+		font-size: 20px;
+		margin: 0;
+		padding: 7px 0;
+		border-bottom: 1px solid;
+	}
+	
+	.hero-container .hero-package-main h3 {
+		font-size: 26px;
+		margin-top: 10px;
+	}
+		
+	.hero-container .hero-package-main p a {
+		font-size: 12px;
+		text-decoration: underline;
+	}
+		
+	.package-content h3 br {
+		display: none;
+	}
+	
+	.package-content h3 {
+		font-size: 38px;
+		text-align: center;
+	}
+		
+	.offers-white-box h3 br {
+		display: none;
+	}
+		
+	.offers-white-box h3 {
+		text-align: center;
+	}
+		
+	.mvp-sec .mvc-program-box p {
+		text-align: center;
+	}
+		
+	.package-content {
+		margin-bottom: 20px;
+	}
+	
+	.hero-container .hero-package-main h2 {
+		font-size: 35px;
+		font-style: italic;
+		line-height: 35px;
+		padding-top: 15px;
+	}
+	.hero-container .hero-package-main h2 sup {
+		font-size: 18px;
+		margin: 0 0 0 8px;
+		top: -11px;
+	}
+	.hero-container .hero-package-main h4 {
+		font-size: 20px;
+		padding: 15px 0 0;
+	}
+	.hero-container .hero-package-main .price-div {
+		font-size: 45px;
+	}
+		.hero-container .hero-package-main p {
+			width: 100%;
+		}
+		.hero-container .hero-package-main ul {
+		width: 100%;
+	}
+		
+	.hero-container .hero-package-main ul li {
+		font-size: 17px;
+	}
+		
+	.tips-sec-content p {
+		margin: 0px 0 20px;
+		padding-right: 0px;
+	}
+
+	.tiphead {
+		margin: 20px 70px 0 0;
+	}
+	
+	.every-sunday-content h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+		
+	.every-sunday-content p {
+		font-size: 16px;
+		line-height: normal;
+		padding-right: 0px;
+	}
+		.hero-container .hero-package-main ul li span {
+			line-height: 15px;
+		}
+	.call-now-main {
+		margin-top: 0px;
+		float: none;
+		width: 100%;
+	}
+		
+	.no-pad-right {
+		padding: 0px 15px 0px !important;
+	}
+		
+	.business-sec-content h2 sup {
+		font-size: 18px;
+	}
+	
+	.quote-form .SearchformGroup .submitForm {
+		width: 90%;
+	}
+	
+	.business-sec-content .btn-darkblue {
+		width: 100%;
+	}
+	
+	.quote-form h2 {
+		font-size: 30px;
+	}
+		
+	.every-sunday-content .sunday-content-btn {
+		width: 100%;
+	}
+	
+	.hero-container .hero-package-main h1 {
+		font-size: 50px;
+	}
+	
+	.quote-form {
+		border-radius: 20px;
+	}
+		
+	.call-now-link {
+		width: 100%;
+	}
+	.every-sunday {
+		margin-top: 0;
+		padding: 156px 0px 50px;
+		background: url('../images/tvMobileImage.png') no-repeat;
+		border-radius: 25px;
+		background-size: contain;
+		height: auto;
+		max-width: 94%;
+	}
+	
+	.big-game-content p {
+		font-size: 14px;
+		padding: 0 0px 0 0;
+	}
+	
+	a.btn-outlineBl {
+		width: 100%;
+	}
+		.every-sunday-img img {
+			width: 100%;
+		}
+		.more-sports {
+			padding: 20px 0;
+			background-image: url('../images/mobile-sports-sec.jpg');
+			background-color: #314150;
+			height: auto;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-radius: 25px;
+			max-width: 94%;
+		}
+	
+		.business-sec-3-content p {
+			text-align: center;
+		}
+	
+		.offset-mds-1 {
+			margin-left: 0%;
+		}
+	
+		.choice-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.ultimate-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.premier-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.section2-txt {
+			text-align: left;
+		}
+	
+		.btd-pkg-sec .chanals-box h2 {
+			font-size: 24px;
+			text-align: center;
+		}
+	
+		.business-sec-3-content h2 {
+			text-align: center;
+			font-size: 24px;
+		}
+	
+		.btd-services-content h3 {
+			font-size: 24px;
+		}
+	
+		.more-sports-box {
+			padding: 0px;
+			width: 100%;
+			min-height: auto;
+		}
+	
+		.btd-pkg-sec {
+			padding: 0 0px;
+		}
+	
+		.more-sports-box h3 {
+			font-size: 24px;
+		}
+	
+		.business-sec-2-content p {
+			text-align: left;
+		}
+	
+		.business-sec-content p {
+			text-align: left;
+		}
+		.business-sec-2-content h2 {
+			text-align: left;
+			font-size: 24px;
+		}
+	
+		.btd-services {
+			background: url('../images/directvbusinessMobile.png') no-repeat;
+			background-color: #314150;
+			height: auto;
+			background-position: top;
+			background-repeat: no-repeat;
+			background-size: 100%;
+			border-radius: 20px;
+			min-height: 400px;
+			max-width: 94%;
+		}
+	
+		.btd-services-content {
+			margin-top: 0px;
+			padding-top: 186px;
+		}
+	
+		.business-sec-2-content h2 br {
+			display: none;
+		}
+	
+		.more-sports .line {
+			display: none;
+		}
+		.more-sports-white-box {
+		min-height: auto;
+		margin-bottom: 10px;
+		padding: 30px;
+		width: 100%;
+	}
+	.more-sports .order-text, .more-sports .order-text a {
+		font-size: 20px;
+		text-align: left;
+	}
+		.availability-sec {
+			padding-top: 0;
+		}
+	.tips-sec-content .tips-content-btn {
+		margin-bottom: 7px;
+		width: 100%;
+	}
+		
+	.footer-privacy-main {
+		height: auto;
+	}
+		
+	.privacy-text {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.tips-sec {
+		background-position: -307px -5px;
+		background-size: cover;
+		padding-bottom: 50px;
+		border-radius: 20px;
+		height: auto;
+		max-width: 94%;
+	}
+	
+	.every-sunday-content {
+		margin-top: 0px;
+		padding-top: 75px;
+	}
+	
+	.footer-text {
+		font-size: 15px;
+	}
+	
+	.footer-text span {
+		font-size: 16px;
+	}
+
+	.footer-text br {
+		display: none;
+	}
+	
+	.tips-sec h1 {
+		font-size: 80px;
+		margin: 0px 0px 20px;
+		width: 100%;
+	}
+		.footer-content-main {
+			height: auto;
+		}
+		.business-sec-content h2 {
+			font-size: 30px;
+			line-height: 35px;
+		}
+		.package-box-main {
+			min-height: auto;
+			margin-bottom: 15px;
+		}
+		.package-box-main ul {
+			min-height: auto;
+		}
+		.big-game-content {
+			margin-top: 0;
+			padding-left: 0px;
+		}
+		.offers-white-box {
+		min-height: auto;
+		padding: 30px;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+		.offers-sec {
+		padding: 110px 0 0 0;
+	}
+		.mvc-title-img img {
+			width: 100%;
+		}
+		.every-sunday img {
+			width: 100%;
+		}
+		.packages-main .package-note {
+			padding: 0;
+		}
+		.order-today-txt h3 {
+		padding-top: 50px;
+	}
+		.white-box-section img {
+			width: 100%;
+			height: auto;
+			margin-bottom: 15px;
+		}
+	
+		.big-game-content h3 {
+			font-size: 24px;
+		}
+	
+		.big-game-image {
+			float: none;
+			padding-right: 0px;
+			width: 60%;
+			margin: 0 auto;
+		}
+	
+		.big-game-sec {
+			max-width: 94%;
+			padding-top: 30px;
+			border-radius: 25px;
+			margin: 0px auto 20px;
+		}
+			
+	}
+
+@media screen and (max-width: 375px) {
+	
+
+.top-header-tfn-main {
+		height: auto;
+}
+.tfn {
+	font-size: 14px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+	margin-top: 0px;
+}
+
+.boxcover h4 {
+	font-size: 15px;
+}
+
+.tfn a {
+	font-size: 18px;
+}
+
+.head-logo {
+    padding: 0px 0;
+    margin-top: 15px;
+}
+.top-nav-container {
+	margin-top: 5px;
+}
+.top-nav-container .navbar {
+	float: right;
+	display: block;
+}
+.navbar-toggler-icon {
+	background-image: url("../images/nav.png") !important;
+	background-size: 21px !important;
+}
+.main-nav a {
+	font-size: 20px;
+	margin: 0;
+	padding: 7px 0;
+	border-bottom: 1px solid;
+}
+
+.hero-container .hero-package-main h3 {
+	font-size: 26px;
+	margin-top: 10px;
+}
+	
+.hero-container .hero-package-main p a {
+	font-size: 12px;
+	text-decoration: underline;
+}
+	
+.package-content h3 br {
+	display: none;
+}
+
+.package-content h3 {
+	font-size: 38px;
+	text-align: center;
+}
+	
+.offers-white-box h3 br {
+	display: none;
+}
+	
+.offers-white-box h3 {
+	text-align: center;
+}
+	
+.mvp-sec .mvc-program-box p {
+	text-align: center;
+}
+	
+.package-content {
+	margin-bottom: 20px;
+}
+
+.hero-container .hero-package-main h2 {
+	font-size: 35px;
+	font-style: italic;
+	line-height: 35px;
+	padding-top: 15px;
+}
+.hero-container .hero-package-main h2 sup {
+	font-size: 18px;
+	margin: 0 0 0 8px;
+	top: -11px;
+}
+.hero-container .hero-package-main h4 {
+	font-size: 20px;
+	padding: 15px 0 0;
+}
+.hero-container .hero-package-main .price-div {
+	font-size: 45px;
+}
+	.hero-container .hero-package-main p {
+		width: 100%;
+	}
+	.hero-container .hero-package-main ul {
+	width: 100%;
+}
+	
+.hero-container .hero-package-main ul li {
+	font-size: 17px;
+}
+	
+.tips-sec-content p {
+	margin: 0px 0 20px;
+	padding-right: 0px;
+}
+
+.every-sunday-content h3 {
+	font-size: 20px;
+	line-height: 24px;
+}
+	
+.every-sunday-content p {
+	font-size: 16px;
+	line-height: normal;
+	padding-right: 0px;
+}
+	.hero-container .hero-package-main ul li span {
+		line-height: 15px;
+	}
+.call-now-main {
+	margin-top: 0px;
+	float: none;
+	width: 100%;
+}
+	
+.no-pad-right {
+	padding: 0px 15px 0px !important;
+}
+	
+.business-sec-content h2 sup {
+	font-size: 18px;
+}
+
+.quote-form .SearchformGroup .submitForm {
+	width: 90%;
+}
+
+.business-sec-content .btn-darkblue {
+	width: 100%;
+}
+
+.quote-form h2 {
+	font-size: 30px;
+}
+	
+.every-sunday-content .sunday-content-btn {
+	width: 100%;
+}
+
+.hero-container .hero-package-main h1 {
+	font-size: 50px;
+}
+
+.quote-form {
+	border-radius: 20px;
+}
+	
+.call-now-link {
+	width: 100%;
+}
+.every-sunday {
+	margin-top: 0;
+	padding: 156px 0px 50px;
+	background: url('../images/tvMobileImage.png') no-repeat;
+	border-radius: 25px;
+	background-size: contain;
+	height: auto;
+	max-width: 94%;
+}
+
+.big-game-content p {
+	font-size: 14px;
+	padding: 0 0px 0 0;
+}
+
+a.btn-outlineBl {
+	width: 100%;
+}
+	.every-sunday-img img {
+		width: 100%;
+	}
+	.more-sports {
+		padding: 20px 0;
+		background-image: url('../images/mobile-sports-sec.jpg');
+		background-color: #314150;
+		height: auto;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		border-radius: 25px;
+		max-width: 94%;
+	}
+
+	.business-sec-3-content p {
+		text-align: center;
+	}
+
+	.offset-mds-1 {
+		margin-left: 0%;
+	}
+
+	.choice-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.ultimate-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.premier-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.section2-txt {
+		text-align: left;
+	}
+
+	.btd-pkg-sec .chanals-box h2 {
+		font-size: 24px;
+		text-align: center;
+	}
+
+	.business-sec-3-content h2 {
+		text-align: center;
+		font-size: 24px;
+	}
+
+	.btd-services-content h3 {
+		font-size: 24px;
+	}
+
+	.more-sports-box {
+		padding: 0px;
+		width: 100%;
+		min-height: auto;
+	}
+
+	.btd-pkg-sec {
+		padding: 0 0px;
+	}
+
+	.more-sports-box h3 {
+		font-size: 24px;
+	}
+
+	.business-sec-2-content p {
+		text-align: left;
+	}
+
+	.business-sec-content p {
+		text-align: left;
+	}
+	.business-sec-2-content h2 {
+		text-align: left;
+		font-size: 24px;
+	}
+
+	.btd-services {
+		background: url('../images/directvbusinessMobile.png') no-repeat;
+		background-color: #314150;
+		height: auto;
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		border-radius: 20px;
+		min-height: 400px;
+		max-width: 94%;
+	}
+
+	.btd-services-content {
+		margin-top: 0px;
+		padding-top: 186px;
+	}
+
+	.business-sec-2-content h2 br {
+		display: none;
+	}
+
+	.more-sports .line {
+		display: none;
+	}
+	.more-sports-white-box {
+	min-height: auto;
+	margin-bottom: 10px;
+	padding: 30px;
+	width: 100%;
+}
+.more-sports .order-text, .more-sports .order-text a {
+	font-size: 20px;
+	text-align: left;
+}
+	.availability-sec {
+		padding-top: 0;
+	}
+.tips-sec-content .tips-content-btn {
+	margin-bottom: 7px;
+	width: 100%;
+}
+	
+.footer-privacy-main {
+	height: auto;
+}
+	
+.privacy-text {
+	text-align: center;
+	padding: 15px 0;
+}
+.tips-sec {
+	background-position: -307px -5px;
+	background-size: cover;
+	padding-bottom: 50px;
+	border-radius: 20px;
+	height: auto;
+	max-width: 94%;
+}
+
+.every-sunday-content {
+	margin-top: 0px;
+	padding-top: 75px;
+}
+
+.footer-text {
+	font-size: 15px;
+}
+
+.footer-text br {
+	display: none;
+}
+
+.tips-sec h1 {
+	font-size: 80px;
+	margin: 0px 0px 20px;
+	width: 100%;
+}
+	.footer-content-main {
+		height: auto;
+	}
+	.business-sec-content h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.package-box-main {
+		min-height: auto;
+		margin-bottom: 15px;
+	}
+	.package-box-main ul {
+		min-height: auto;
+	}
+	.big-game-content {
+		margin-top: 0;
+		padding-left: 0px;
+	}
+	.offers-white-box {
+	min-height: auto;
+	padding: 30px;
+	width: 100%;
+	margin-bottom: 15px;
+}
+	.offers-sec {
+	padding: 110px 0 0 0;
+}
+	.mvc-title-img img {
+		width: 100%;
+	}
+	.every-sunday img {
+		width: 100%;
+	}
+	.packages-main .package-note {
+		padding: 0;
+	}
+	.order-today-txt h3 {
+	padding-top: 50px;
+}
+	.white-box-section img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 15px;
+	}
+
+	.big-game-content h3 {
+		font-size: 24px;
+	}
+
+	.big-game-image {
+		float: none;
+		padding-right: 0px;
+		width: 60%;
+		margin: 0 auto;
+	}
+
+	.big-game-sec {
+		max-width: 94%;
+		padding-top: 30px;
+		border-radius: 25px;
+		margin: 0px auto 20px;
+	}
+		
+}
+
+@media screen and (max-width: 360px) {
+		.container {
+			max-width: 100%;
+		}
+		
+   .top-header-tfn-main {
+			height: auto;
+	}
+	.tfn {
+		font-size: 14px;
+		padding: 10px 0;
+		text-align: center;
+		width: 100%;
+		margin-top: 0px;
+	}
+
+	.boxcover h4 {
+		font-size: 15px;
+	}
+	
+	.tfn a {
+		font-size: 18px;
+	}
+	
+	.head-logo {
+		padding: 0px 0;
+		margin-top: 15px;
+	}
+	.top-nav-container {
+		margin-top: 5px;
+	}
+	.top-nav-container .navbar {
+		float: right;
+		display: block;
+	}
+	.navbar-toggler-icon {
+		background-image: url("../images/nav.png") !important;
+		background-size: 21px !important;
+	}
+	.main-nav a {
+		font-size: 20px;
+		margin: 0;
+		padding: 7px 0;
+		border-bottom: 1px solid;
+	}
+	
+	.hero-container .hero-package-main h3 {
+		font-size: 26px;
+		margin-top: 10px;
+	}
+		
+	.hero-container .hero-package-main p a {
+		font-size: 12px;
+		text-decoration: underline;
+	}
+		
+	.package-content h3 br {
+		display: none;
+	}
+	
+	.package-content h3 {
+		font-size: 38px;
+		text-align: center;
+	}
+		
+	.offers-white-box h3 br {
+		display: none;
+	}
+		
+	.offers-white-box h3 {
+		text-align: center;
+	}
+		
+	.mvp-sec .mvc-program-box p {
+		text-align: center;
+	}
+		
+	.package-content {
+		margin-bottom: 20px;
+	}
+	
+	.hero-container .hero-package-main h2 {
+		font-size: 35px;
+		font-style: italic;
+		line-height: 35px;
+		padding-top: 15px;
+	}
+	.hero-container .hero-package-main h2 sup {
+		font-size: 18px;
+		margin: 0 0 0 8px;
+		top: -11px;
+	}
+	.hero-container .hero-package-main h4 {
+		font-size: 20px;
+		padding: 15px 0 0;
+	}
+	.hero-container .hero-package-main .price-div {
+		font-size: 45px;
+	}
+		.hero-container .hero-package-main p {
+			width: 100%;
+		}
+		.hero-container .hero-package-main ul {
+		width: 100%;
+	}
+		
+	.hero-container .hero-package-main ul li {
+		font-size: 17px;
+	}
+		
+	.tips-sec-content p {
+		margin: 0px 0 20px;
+		padding-right: 0px;
+	}
+	
+	.every-sunday-content h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+		
+	.every-sunday-content p {
+		font-size: 16px;
+		line-height: normal;
+		padding-right: 0px;
+	}
+		.hero-container .hero-package-main ul li span {
+			line-height: 15px;
+		}
+	.call-now-main {
+		margin-top: 0px;
+		float: none;
+		width: 100%;
+	}
+		
+	.no-pad-right {
+		padding: 0px 15px 0px !important;
+	}
+		
+	.business-sec-content h2 sup {
+		font-size: 18px;
+	}
+	
+	.quote-form .SearchformGroup .submitForm {
+		width: 90%;
+	}
+	
+	.business-sec-content .btn-darkblue {
+		width: 100%;
+	}
+	
+	.quote-form h2 {
+		font-size: 30px;
+	}
+		
+	.every-sunday-content .sunday-content-btn {
+		width: 100%;
+	}
+	
+	.hero-container .hero-package-main h1 {
+		font-size: 50px;
+	}
+	
+	.quote-form {
+		border-radius: 20px;
+	}
+		
+	.call-now-link {
+		width: 100%;
+	}
+	.every-sunday {
+		margin-top: 0;
+		padding: 156px 0px 50px;
+		background: url('../images/tvMobileImage.png') no-repeat;
+		border-radius: 25px;
+		background-size: contain;
+		height: auto;
+		max-width: 94%;
+	}
+
+	.big-game-content p {
+		font-size: 14px;
+		padding: 0 0px 0 0;
+	}
+	
+	a.btn-outlineBl {
+		width: 100%;
+	}
+		.every-sunday-img img {
+			width: 100%;
+		}
+		.more-sports {
+			padding: 20px 0;
+			background-image: url('../images/mobile-sports-sec.jpg');
+			background-color: #314150;
+			height: auto;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-radius: 25px;
+			max-width: 94%;
+		}
+	
+		.business-sec-3-content p {
+			text-align: center;
+		}
+	
+		.offset-mds-1 {
+			margin-left: 0%;
+		}
+	
+		.choice-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.ultimate-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.premier-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+
+		.tiphead {
+			margin: 20px 70px 0 0;
+		}
+	
+		.section2-txt {
+			text-align: left;
+		}
+	
+		.btd-pkg-sec .chanals-box h2 {
+			font-size: 24px;
+			text-align: center;
+		}
+	
+		.business-sec-3-content h2 {
+			text-align: center;
+			font-size: 24px;
+		}
+
+		.btd-services-content h3 {
+			font-size: 24px;
+		}
+	
+		.more-sports-box {
+			padding: 0px;
+			width: 100%;
+			min-height: auto;
+		}
+
+		.btd-pkg-sec {
+			padding: 0 0px;
+		}
+	
+		.more-sports-box h3 {
+			font-size: 24px;
+		}
+	
+		.business-sec-2-content p {
+			text-align: left;
+		}
+	
+		.business-sec-content p {
+			text-align: left;
+		}
+		.business-sec-2-content h2 {
+			text-align: left;
+			font-size: 24px;
+		}
+	
+		.btd-services {
+			background: url('../images/directvbusinessMobile.png') no-repeat;
+			background-color: #314150;
+			height: auto;
+			background-position: top;
+			background-repeat: no-repeat;
+			background-size: 100%;
+			border-radius: 20px;
+			min-height: 400px;
+			max-width: 94%;
+		}
+	
+		.btd-services-content {
+			margin-top: 0px;
+			padding-top: 183px;
+		}
+	
+		.business-sec-2-content h2 br {
+			display: none;
+		}
+	
+		.more-sports .line {
+			display: none;
+		}
+		.more-sports-white-box {
+		min-height: auto;
+		margin-bottom: 10px;
+		padding: 30px;
+		width: 100%;
+	}
+	.more-sports .order-text, .more-sports .order-text a {
+		font-size: 20px;
+		text-align: left;
+	}
+		.availability-sec {
+			padding-top: 0;
+		}
+	.tips-sec-content .tips-content-btn {
+		margin-bottom: 7px;
+		width: 100%;
+	}
+		
+	.footer-privacy-main {
+		height: auto;
+	}
+		
+	.privacy-text {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.tips-sec {
+		background-position: -307px -5px;
+		background-size: cover;
+		padding-bottom: 50px;
+		border-radius: 20px;
+		height: auto;
+		max-width: 94%;
+	}
+	
+	.every-sunday-content {
+		margin-top: 0px;
+		padding-top: 64px;
+	}
+	
+	.footer-text {
+		font-size: 15px;
+	}
+	
+	.footer-text br {
+		display: none;
+	}
+	
+	.tips-sec h1 {
+		font-size: 80px;
+		margin: 0px 0px 20px;
+		width: 100%;
+	}
+		.footer-content-main {
+			height: auto;
+		}
+		.business-sec-content h2 {
+			font-size: 30px;
+			line-height: 35px;
+		}
+		.package-box-main {
+			min-height: auto;
+			margin-bottom: 15px;
+		}
+		.package-box-main ul {
+			min-height: auto;
+		}
+		.big-game-content {
+			margin-top: 0;
+			padding-left: 0px;
+		}
+		.offers-white-box {
+		min-height: auto;
+		padding: 30px;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+		.offers-sec {
+		padding: 110px 0 0 0;
+	}
+		.mvc-title-img img {
+			width: 100%;
+		}
+		.every-sunday img {
+			width: 100%;
+		}
+		.packages-main .package-note {
+			padding: 0;
+		}
+		.order-today-txt h3 {
+		padding-top: 50px;
+	}
+		.white-box-section img {
+			width: 100%;
+			height: auto;
+			margin-bottom: 15px;
+		}
+	
+		.big-game-content h3 {
+			font-size: 24px;
+		}
+
+		.big-game-image {
+			float: none;
+			padding-right: 0px;
+			width: 60%;
+			margin: 0 auto;
+		}
+	
+		.big-game-sec {
+			max-width: 94%;
+			padding-top: 30px;
+			border-radius: 25px;
+			margin: 0px auto 20px;
+		}
+}
+
+@media screen and (max-width: 320px) {
+		.container {
+			max-width: 100%;
+		}
+		
+		.top-header-tfn-main {
+			height: auto;
+	}
+	.tfn {
+		font-size: 14px;
+		padding: 10px 0;
+		text-align: center;
+		width: 100%;
+		margin-top: 0px;
+	}
+	
+	.tfn a {
+		font-size: 18px;
+	}
+	.head-logo {
+		padding: 0px 0;
+		margin-top: 15px;
+	}
+	.top-nav-container {
+		margin-top: 5px;
+	}
+	.top-nav-container .navbar {
+		float: right;
+		display: block;
+	}
+	.navbar-toggler-icon {
+		background-image: url("../images/nav.png") !important;
+		background-size: 21px !important;
+	}
+	.main-nav a {
+		font-size: 20px;
+		margin: 0;
+		padding: 7px 0;
+		border-bottom: 1px solid;
+	}
+	
+	.hero-container .hero-package-main h3 {
+		font-size: 26px;
+		margin-top: 10px;
+	}
+		
+	.hero-container .hero-package-main p a {
+		font-size: 12px;
+		text-decoration: underline;
+	}
+		
+	.package-content h3 br {
+		display: none;
+	}
+	
+	.package-content h3 {
+		font-size: 38px;
+		text-align: center;
+	}
+		
+	.offers-white-box h3 br {
+		display: none;
+	}
+		
+	.offers-white-box h3 {
+		text-align: center;
+	}
+		
+	.mvp-sec .mvc-program-box p {
+		text-align: center;
+	}
+		
+	.package-content {
+		margin-bottom: 20px;
+	}
+	
+	.hero-container .hero-package-main h2 {
+		font-size: 35px;
+		font-style: italic;
+		line-height: 35px;
+		padding-top: 15px;
+	}
+	.hero-container .hero-package-main h2 sup {
+		font-size: 18px;
+		margin: 0 0 0 8px;
+		top: -11px;
+	}
+	.hero-container .hero-package-main h4 {
+		font-size: 20px;
+		padding: 15px 0 0;
+	}
+	.hero-container .hero-package-main .price-div {
+		font-size: 45px;
+	}
+		.hero-container .hero-package-main p {
+			width: 100%;
+		}
+		.hero-container .hero-package-main ul {
+		width: 100%;
+	}
+		
+	.hero-container .hero-package-main ul li {
+		font-size: 17px;
+	}
+		
+	.tips-sec-content p {
+		margin: 0px 0 20px;
+		padding-right: 0px;
+	}
+	
+	.every-sunday-content h3 {
+		font-size: 20px;
+		line-height: 24px;
+	}
+		
+	.every-sunday-content p {
+		font-size: 16px;
+		line-height: normal;
+		padding-right: 0px;
+	}
+		.hero-container .hero-package-main ul li span {
+			line-height: 15px;
+		}
+	.call-now-main {
+		margin-top: 0px;
+		float: none;
+		width: 100%;
+	}
+		
+	.no-pad-right {
+		padding: 0px 15px 0px !important;
+	}
+		
+	.business-sec-content h2 sup {
+		font-size: 18px;
+	}
+	
+	.quote-form .SearchformGroup .submitForm {
+		width: 90%;
+	}
+	
+	.business-sec-content .btn-darkblue {
+		width: 100%;
+	}
+	
+	.quote-form h2 {
+		font-size: 30px;
+	}
+		
+	.every-sunday-content .sunday-content-btn {
+		width: 100%;
+	}
+	
+	.hero-container .hero-package-main h1 {
+		font-size: 50px;
+	}
+	
+	.quote-form {
+		border-radius: 20px;
+	}
+		
+	.call-now-link {
+		width: 100%;
+	}
+	.every-sunday {
+		margin-top: 0;
+		padding: 156px 0px 50px;
+		background: url('../images/tvMobileImage.png') no-repeat;
+		border-radius: 25px;
+		background-size: contain;
+		height: auto;
+		max-width: 94%;
+	}
+
+	.big-game-content p {
+		font-size: 14px;
+		padding: 0 0px 0 0;
+	}
+	
+	a.btn-outlineBl {
+		width: 100%;
+	}
+		.every-sunday-img img {
+			width: 100%;
+		}
+		.more-sports {
+			padding: 20px 0;
+			background-image: url('../images/mobile-sports-sec.jpg');
+			background-color: #314150;
+			height: auto;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			border-radius: 25px;
+			max-width: 94%;
+		}
+	
+		.business-sec-3-content p {
+			text-align: center;
+		}
+	
+		.offset-mds-1 {
+			margin-left: 0%;
+		}
+	
+		.choice-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.ultimate-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+	
+		.premier-card {
+			margin: 0 0px 10px;
+			width: 100%;
+		}
+
+		.tiphead {
+			margin: 20px 30px 0 0;
+		}
+
+		.btd-services-content h3 {
+			font-size: 20px;
+			line-height: normal;
+		}
+	
+		.section2-txt {
+			text-align: left;
+		}
+	
+		.btd-pkg-sec .chanals-box h2 {
+			font-size: 30px;
+			text-align: center;
+		}
+	
+		.business-sec-3-content h2 {
+			text-align:center;
+			font-size: 30px;
+		}
+	
+		.more-sports-box {
+			padding: 0px;
+			width: 100%;
+			min-height: auto;
+		}
+
+		.btd-pkg-sec {
+			padding: 0 0px;
+		}
+	
+		.more-sports-box h3 {
+			font-size: 24px;
+		}
+	
+		.business-sec-2-content p {
+			text-align: left;
+		}
+	
+		.business-sec-content p {
+			text-align: left;
+		}
+		.business-sec-2-content h2 {
+			text-align: left;
+			font-size: 24px;
+		}
+	
+		.btd-services {
+			background: url('../images/directvbusinessMobile.png') no-repeat;
+			background-color: #314150;
+			height: auto;
+			background-position: top;
+			background-repeat: no-repeat;
+			background-size: 100%;
+			border-radius: 20px;
+			min-height: 424px;
+			max-width: 94%;
+		}
+	
+		.btd-services-content {
+			margin-top: 0px;
+			padding-top: 170px;
+		}
+	
+		.business-sec-2-content h2 br {
+			display: none;
+		}
+	
+		.more-sports .line {
+			display: none;
+		}
+		.more-sports-white-box {
+		min-height: auto;
+		margin-bottom: 10px;
+		padding: 30px;
+		width: 100%;
+	}
+	.more-sports .order-text, .more-sports .order-text a {
+		font-size: 20px;
+		text-align: left;
+	}
+		.availability-sec {
+			padding-top: 0;
+		}
+	.tips-sec-content .tips-content-btn {
+		margin-bottom: 7px;
+		width: 100%;
+	}
+		
+	.footer-privacy-main {
+		height: auto;
+	}
+		
+	.privacy-text {
+		text-align: center;
+		padding: 15px 0;
+	}
+	.tips-sec {
+		background-position: -307px -5px;
+		background-size: cover;
+		padding-bottom: 50px;
+		border-radius: 20px;
+		height: auto;
+		max-width: 94%;
+	}
+	
+	.every-sunday-content {
+		margin-top: 0px;
+		padding-top: 45px;
+	}
+	
+	.footer-text {
+		font-size: 15px;
+	}
+	
+	.footer-text br {
+		display: none;
+	}
+	
+	.tips-sec h1 {
+		font-size: 80px;
+		margin: 0px 0px 20px;
+		width: 100%;
+	}
+		.footer-content-main {
+			height: auto;
+		}
+		.business-sec-content h2 {
+			font-size: 30px;
+			line-height: 35px;
+		}
+		.package-box-main {
+			min-height: auto;
+			margin-bottom: 15px;
+		}
+		.package-box-main ul {
+			min-height: auto;
+		}
+		.big-game-content {
+			margin-top: 0;
+			padding-left: 0px;
+		}
+		.offers-white-box {
+		min-height: auto;
+		padding: 30px;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+		.offers-sec {
+		padding: 110px 0 0 0;
+	}
+		.mvc-title-img img {
+			width: 100%;
+		}
+		.every-sunday img {
+			width: 100%;
+		}
+		.packages-main .package-note {
+			padding: 0;
+		}
+		.order-today-txt h3 {
+		padding-top: 50px;
+	}
+		.white-box-section img {
+			width: 100%;
+			height: auto;
+			margin-bottom: 15px;
+		}
+	
+		.big-game-content h3 {
+			font-size: 24px;
+		}
+	
+		.big-game-sec {
+			max-width: 94%;
+			padding-top: 30px;
+			border-radius: 25px;
+			margin: 0px auto 20px;
+		}
+}
+
+@media screen and (min-width:600px) and (max-width: 767px) {
+    .container {
+        max-width: 100%;
+    }
+	
+	.top-header-tfn-main {
+		height: auto;
+}
+.tfn {
+	font-size: 12px;
+	padding: 10px 0;
+	text-align: left;
+	width: 100%;
+	margin-top: 0px;
+}
+
+.tfn a {
+	font-size: 18px;
+}
+
+.head-logo {
+    padding: 0px 0;
+	margin-top: 6px;
+    width: 100%;
+}
+.navbar-toggler {
+	padding: 5px 10px 9px;
+	margin: 9px 0px 0px 0px;
+}
+
+.navbar-collapse {
+	position: absolute;
+	width: 100%;
+	margin-top: 48px;
+}
+
+.top-nav-container {
+    margin-top: 5px;
+}
+.top-nav-container .navbar {
+		width: 100%;
+}
+.navbar-toggler-icon {
+	background-image: url("../images/nav.png") !important;
+	background-size: 21px !important;
+}
+.main-nav a {
+	font-size: 20px;
+	margin: 0;
+	padding: 7px 0;
+	border-bottom: 1px solid;
+}
+
+.hero-container .hero-package-main h3 {
+	font-size: 26px;
+	margin-top: 10px;
+}
+	
+.hero-container .hero-package-main p a {
+	font-size: 12px;
+	text-decoration: underline;
+}
+	
+.package-content h3 br {
+	display: none;
+}
+
+.package-content h3 {
+	font-size: 38px;
+	text-align: center;
+}
+	
+.offers-white-box h3 br {
+	display: none;
+}
+	
+.offers-white-box h3 {
+	text-align: center;
+}
+	
+.mvp-sec .mvc-program-box p {
+	text-align: center;
+}
+	
+.package-content {
+	margin-bottom: 20px;
+}
+
+.hero-container .hero-package-main h2 {
+    font-size: 35px;
+    font-style: italic;
+    line-height: 35px;
+	padding-top: 15px;
+}
+.hero-container .hero-package-main h2 sup {
+    font-size: 18px;
+    margin: 0 0 0 8px;
+    top: -11px;
+}
+.hero-container .hero-package-main h4 {
+    font-size: 20px;
+    padding: 15px 0 0;
+}
+.hero-container .hero-package-main .price-div {
+    font-size: 45px;
+}
+	.hero-container .hero-package-main p {
+		width: 100%;
+	}
+	.hero-container .hero-package-main ul {
+    width: 100%;
+}
+	
+.hero-container .hero-package-main ul li {
+	font-size: 17px;
+}
+	
+.tips-sec-content p {
+	margin: 48px 0 20px;
+	padding-right: 0px;
+}
+
+.every-sunday-content h3 {
+	font-size: 20px;
+	line-height: 24px;
+}
+	
+.every-sunday-content p {
+	font-size: 16px;
+	line-height: normal;
+}
+	.hero-container .hero-package-main ul li span {
+		line-height: 15px;
+	}
+.call-now-main {
+	margin-top: 0px;
+	float: none;
+	width: 100%;
+}
+	
+.no-pad-right {
+	padding: 0px 15px 0px !important;
+}
+	
+.business-sec-content h2 sup {
+	font-size: 18px;
+}
+
+.quote-form .SearchformGroup .submitForm {
+	width: 90%;
+}
+
+.business-sec-content .btn-darkblue {
+	width: 100%;
+}
+
+.quote-form h2 {
+    font-size: 20px;
+}
+
+.quote-form h3 {
+    font-size: 18px;
+}
+
+.quote-form h2 a {
+    font-size: 18px;
+}
+
+.quote-form h2 p {
+    font-size: 16px;
+}
+	
+.every-sunday-content .sunday-content-btn {
+	width: 100%;
+}
+
+.hero-container .hero-package-main h1 {
+	font-size: 50px;
+}
+
+.quote-form {
+	border-radius: 20px;
+	min-height: 446px;
+}
+
+.big-game-content p {
+    font-size: 12px;
+    margin: 0px 0 20px;
+    padding: 0 20px 0 0;
+}
+	
+.call-now-link {
+	width: 100%;
+}
+.every-sunday {
+	margin-top: 0;
+	padding: 156px 0px 50px;
+	background: url('../images/tvMobileImage.png') no-repeat;
+	border-radius: 20px;
+	background-size: contain;
+	height: auto;
+}
+
+a.btn-outlineBl {
+	width: 100%;
+}
+	.every-sunday-img img {
+		width: 100%;
+	}
+	.more-sports {
+		padding: 50px 0;
+		background-image: url('../images/mobile-sports-sec.jpg');
+		background-color: #314150;
+		height: auto;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		border-radius: 20px;
+		width: 97%;
+	}
+
+	.business-sec-3-content p {
+		text-align: center;
+	}
+
+	.offset-mds-1 {
+		margin-left: 0%;
+	}
+
+	.choice-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.ultimate-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.premier-card {
+		margin: 0 0px 10px;
+		width: 100%;
+	}
+
+	.section2-txt {
+		text-align: left;
+	}
+
+	.btd-pkg-sec .chanals-box h2 {
+		font-size: 30px;
+		text-align: center;
+	}
+
+	.business-sec-3-content h2 {
+		text-align:center;
+		font-size: 30px;
+	}
+
+	.more-sports-box {
+		padding: 15px;
+		width: 100%;
+		min-height: auto;
+	}
+
+	.more-sports-box h3 {
+		font-size: 24px;
+	}
+
+	.business-sec-2-content p {
+		text-align: left;
+	}
+
+	.business-sec-content p {
+		text-align: left;
+	}
+	.business-sec-2-content h2 {
+		text-align: left;
+		font-size: 24px;
+	}
+
+	.btd-services {
+		background: url('../images/directvbusinessMobile.png') no-repeat;
+		background-color: #314150;
+		height: auto;
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		border-radius: 20px;
+		min-height: 498px;
+		width: 97%;
+	}
+
+	.btd-services-content {
+		margin-top: 0px;
+		padding-top: 330px;
+	}
+
+	.business-sec-2-content h2 br {
+		display: none;
+	}
+
+	.more-sports .line {
+		display: block;
+	}
+	.more-sports-white-box {
+    min-height: auto;
+    margin-bottom: 10px;
+    padding: 30px;
+    width: 100%;
+}
+.more-sports .order-text, .more-sports .order-text a {
+	font-size: 22px;
+	text-align:center;
+}
+	.availability-sec {
+		padding-top: 0;
+	}
+	.tips-sec-content .tips-content-btn {
+		margin-bottom: 7px;
+		width: 128px;
+	}
+
+	.tiphead h2 {
+		margin: 7px 33px 0px 0px;
+		font-size: 80px;
+	}
+	
+.footer-privacy-main {
+	height: auto;
+}
+	
+.privacy-text {
+	text-align: center;
+	padding: 15px 0;
+}
+.tips-sec {
+    background-position: -466px -5px;
+    background-size: cover;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    height: auto;
+    width: 97%;
+}
+
+.tiphead {
+	margin: 20px 0px 0 0;
+	padding: 0;
+	float: right;
+}
+
+.every-sunday-content {
+    margin-top: 0px;
+    padding-top: 254px;
+}
+
+.big-game-image {
+    margin-top: 18px;
+    width: 80%;
+}
+
+.footer-text {
+	font-size: 15px;
+}
+
+.footer-text br {
+	display: none;
+}
+
+.tips-sec h1 {
+	font-size: 80px;
+	margin: 20px 22px 20px;
+	width: 80%;
+}
+	.footer-content-main {
+		height: auto;
+	}
+	.business-sec-content h2 {
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.package-box-main {
+		min-height: auto;
+		margin-bottom: 15px;
+	}
+	.package-box-main ul {
+		min-height: auto;
+	}
+	.big-game-content {
+		margin-top: 0;
+		padding-left: 15px;
+	}
+	.offers-white-box {
+    min-height: auto;
+    padding: 30px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+	.offers-sec {
+    padding: 110px 0 0 0;
+}
+	.mvc-title-img img {
+		width: 100%;
+	}
+	.every-sunday img {
+		width: 100%;
+	}
+	.packages-main .package-note {
+		padding: 0;
+	}
+	.order-today-txt h3 {
+    padding-top: 50px;
+}
+	.white-box-section img {
+		width: 100%;
+		height: auto;
+		margin-bottom: 15px;
+	}
+
+	.big-game-content h3 {
+		font-size: 24px;
+		margin: 14px 0px 10px;
+	}
+
+	.big-game-sec {
+		width: 97%;
+		padding: 18px 0px;
+		border-radius: 20px;
+	}
+}
+
+@media screen and (min-width:768px) and (max-width: 991px) {
+	.container {
+		max-width: 100%;
+	}
+	
+	.tfn {
+		font-size: 11px;
+		padding: 0px 0;
+		margin-top: 30px;
+	}
+
+	.top-nav-container .navbar {
+		width: 100%;
+	}
+
+	.tfn a {
+		font-size: 13px;
+	}
+
+	.quote-form h2 {
+		font-size: 20px;
+	}
+
+	.quote-form h2 a {
+		font-size: 20px;
+	}
+
+	.quote-form h3 {
+		font-size: 20px;
+	}
+
+	.hero-container .hero-package-main ul li {
+		font-size: 18px;
+		padding: 0 8px 0 10px;
+	}
+	
+	.navbar-nav .nav-link {
+		padding-right: 0 !important;
+		padding-left: 0 !important;
+	}
+	
+.hero-container .hero-package-main h2 {
+	font-size: 30px;
+	line-height: 34px;
+}
+
+.navbar-nav {
+	width: 100%;
+	margin: 57px 0px 0px 0px;
+}
+
+.top-nav-container {
+	margin-top: 0px;
+}
+	
+.offers-sec {
+	background-size: 136%;
+}
+	
+.tips-sec {
+	padding: 49px 0 95px;
+	background-position: 33%;
+	border-radius: 50px;
+	max-width: 97%;
+}
+
+.btd-pkg-sec .chanals-box h2 {
+	margin: 0px 0px 20px;
+	text-align: center;
+}
+
+.boxcover h4 {
+	margin: 0px 0px 20px;
+	text-align: left;
+}
+
+.more-sports .line {
+    height: 195px;
+}
+
+.tips-sec-content p {
+    margin: 0px 0px 10px 0px;
+    width: 100%;
+    padding-right: 0px;
+}
+
+.tips-sec-content .tips-content-btn {
+    width: 156px;
+}
+
+.footer-text span {
+    font-size: 14px;
+}
+
+.tiphead {
+	margin: 0px 90px 0 0;
+}
+
+.tips-sec h1 {
+	margin: 0px 51px 0px;
+}
+
+.hero-container .hero-package-main h1 {
+    line-height:normal;
+    font-size: 50px;
+}
+
+.footer-text {
+    font-size: 14px;
+}
+	
+.price-box-tfn {
+	font-size: 11px;
+}
+	
+.mvp-sec .mvc-program-box {
+	min-height: 424px;
+}
+	
+.hero-container .hero-package-main h4 {
+	padding: 11px 0 0;
+
+}
+
+.head-logo {
+    width: 100%;
+}
+		
+.main-nav a {
+	font-size: 12px;
+	margin: 2px 0 0 12px;
+}
+
+.quote-form .SearchformGroup .submitForm {
+    width: 75%;
+}
+	
+.package-content h3 br {
+	display:none;
+}
+	
+.package-content h3 {
+	font-size: 30px;
+}
+	
+.package-box-main {
+	min-height: 540px;
+}
+.hero-container .hero-package-main p, .hero-container .hero-package-main ul {
+    width: 100%;
+    font-size: 12px;
+}
+	.every-sunday-img img, .every-sunday img, .white-box-section img {
+		width: 100%;
+		height: auto;
+	}
+	.every-sunday-content {
+		margin-top: 30px;
+		padding-left: 20px;
+	}
+	.more-sports {
+		padding: 36px 0;
+		background-position: 82% 0%;
+		border-radius: 25px;
+		height: 400px;
+		max-width: 97%;
+	}
+	.footer-content-main {
+		height: auto;
+	}
+	.big-game-content {
+		margin-top: 0px;
+		padding-left: 15px;
+	}
+	.offers-sec {
+		background-size: cover;
+		padding: 100px 0;
+	}
+	.offers-white-box, .package-content ul li {
+		width:100%;
+	}
+	.package-content ul {
+    margin: 0 0 25px 15px;
+    padding: 0;
+    width: 100%;
+    float: left;
+}
+
+.every-sunday-content p {
+    font-size: 14px;
+    line-height: 18px;
+    padding-right: 0px;
+    margin: 10px 0px 10px;
+}
+
+.every-sunday-content h3 {
+    font-size: 18px;
+    margin-top: 0px;
+}
+
+.big-game-content h3 {
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+.big-game-content h3 br {
+    display: none;
+}
+
+.every-sunday {
+	background: url('../images/ipadresolutions.png') no-repeat;
+	border-radius: 25px;
+	height: 320px;
+	width: 100%;
+	border: 1px solid #102641;
+	padding-top: 10px;
+	max-width: 97%;
+}
+
+.big-game-sec {
+	max-width: 97%;
+	border-radius: 25px;
+}
+
+.every-sunday-content .sunday-content-btn {
+    float: none;
+    width: 150px;
+    font-size: 12px;
+}
+
+.big-game-content p {
+    font-size: 14px;
+    margin: 0px 0 20px;
+    padding: 0 0px 0 0;
+    width: 100%;
+}
+
+.more-sports-box {
+    min-height: 280px;
+    margin: 10px 0px 0px;
+    padding: 10px;
+    width: 100%;
+}
+
+.big-game-image {
+	float: right;
+	padding-right: 0px;
+	margin-top: 18px;
+	width: 74%;
+	margin: 0 auto;
+}
+
+.more-sports-box h3 {
+    font-size: 30px;
+}
+
+.choice-card {
+    margin: 0px 0px 10px;
+}
+
+.ultimate-card {
+	margin: 0px 0px 10px;
+}
+
+.premier-card {
+	margin: 0px 0px 10px;
+}
+
+.offset-mds-1 {
+    margin-left: 0%;
+}
+
+.btd-services-content {
+    margin-top: 22px;
+    margin-right: -59px;
+}
+
+.btd-services {
+	height: 244px;
+	background-position: 26%;
+	max-width: 97%;
+}
+
+.btd-pkg-sec {
+	padding: 0 0px;
+}
+
+.btd-pkg-sec .chanals-box {
+	padding: 10px 0px 30px 0px;
+}
+
+    
+}
+
+@media screen and (min-width:992px) and (max-width: 1199px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 95%;
+    }
+		.top-header-tfn-main {
+				height: auto;
+		}
+		.tfn {
+			font-size: 12px;
+			padding: 0px 0;
+			text-align: right;
+			width: 100%;
+			margin-top: 24px;
+		}
+		
+		.tfn a {
+			font-size: 18px;
+		}
+		
+		.head-logo {
+			padding: 10px 0;
+			width: 70%;
+		}
+		.navbar-toggler {
+			padding: 5px 10px 9px;
+		}
+		.top-nav-container {
+			margin-top: 28px;
+		}
+		.top-nav-container .navbar {
+				width: 100%;
+		}
+		.navbar-toggler-icon {
+			background-image: url("../images/nav.png") !important;
+			background-size: 21px !important;
+		}
+		.main-nav a {
+			font-size: 15px;
+			margin: 0;
+			padding: 7px 0;
+			border-bottom: none;
+		}
+		
+		.hero-container .hero-package-main h3 {
+			font-size: 26px;
+			margin-top: 10px;
+		}
+			
+		.hero-container .hero-package-main p a {
+			font-size: 12px;
+			text-decoration: underline;
+		}
+			
+		.package-content h3 br {
+			display: none;
+		}
+		
+		.package-content h3 {
+			font-size: 38px;
+			text-align: center;
+		}
+			
+		.offers-white-box h3 br {
+			display: none;
+		}
+			
+		.offers-white-box h3 {
+			text-align: center;
+		}
+			
+		.mvp-sec .mvc-program-box p {
+			text-align: center;
+		}
+			
+		.package-content {
+			margin-bottom: 20px;
+		}
+		
+		.hero-container .hero-package-main h2 {
+			font-size: 35px;
+			font-style: italic;
+			line-height: 35px;
+			padding-top: 15px;
+		}
+		.hero-container .hero-package-main h2 sup {
+			font-size: 18px;
+			margin: 0 0 0 8px;
+			top: -11px;
+		}
+		.hero-container .hero-package-main h4 {
+			font-size: 20px;
+			padding: 15px 0 0;
+		}
+		.hero-container .hero-package-main .price-div {
+			font-size: 45px;
+		}
+			.hero-container .hero-package-main p {
+				width: 100%;
+			}
+			.hero-container .hero-package-main ul {
+			width: 100%;
+		}
+			
+		.hero-container .hero-package-main ul li {
+			font-size: 17px;
+		}
+			
+		.tips-sec-content p {
+			margin: 9px 0 20px;
+			padding-right: 0px;
+		}
+		
+		.every-sunday-content h3 {
+			font-size: 20px;
+			line-height: 24px;
+		}
+			
+		.every-sunday-content p {
+			font-size: 16px;
+			line-height: normal;
+		}
+			.hero-container .hero-package-main ul li span {
+				line-height: 15px;
+			}
+		.call-now-main {
+			margin-top: 0px;
+			float: none;
+			width: 100%;
+		}
+			
+		.no-pad-right {
+			padding: 0px 15px 0px !important;
+		}
+			
+		.business-sec-content h2 sup {
+			font-size: 18px;
+		}
+		
+		.quote-form .SearchformGroup .submitForm {
+			width: 90%;
+		}
+		
+		.quote-form h2 {
+			font-size: 30px;
+		}
+			
+		.every-sunday-content .sunday-content-btn {
+			width: 206px;
+		}
+		
+		.hero-container .hero-package-main h1 {
+			font-size: 50px;
+		}
+	
+			
+		.call-now-link {
+			width: 100%;
+		}
+		.every-sunday {
+			margin-top: 0;
+			padding: 20px 0px 20px;
+			border-radius: 50px;
+			height: auto;
+			width: 100%;
+			background-position: 57%;
+			border: 1px solid #102641;
+			max-width: 97%;
+		}
+
+		.hght-txt {
+			min-height: 73px;
+		}
+
+		.big-game-image {
+			float: right;
+			padding-right: 0px;
+			margin-top: 18px;
+			width: 60%;
+		}
+		
+		a.btn-outlineBl {
+			width: 190px;
+			font-size: 12px;
+			height: 40px;
+			padding: 11px 0px 0px;
+		}
+			.every-sunday-img img {
+				width: 100%;
+			}
+			.more-sports {
+				padding: 50px 0;
+				background-image: url('../images/mobile-sports-sec.jpg');
+				background-color: #314150;
+				height: auto;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				border-radius: 50px;
+				max-width: 97%;
+			}
+		
+			.business-sec-3-content p {
+				text-align: center;
+			}
+			.offset-mds-1 {
+				margin-left: 6%;
+			}
+		
+			.choice-card {
+				margin: 0 0px 10px;
+				width: 250px;
+			}
+		
+			.ultimate-card {
+				margin: 0 34px 10px;
+				width: 250px;
+			}
+		
+			.premier-card {
+				margin: 0 67px 10px;
+				width: 250px;
+			}
+		
+			.section2-txt {
+				text-align:center;
+			}
+		
+			.btd-pkg-sec .chanals-box h2 {
+				font-size: 30px;
+				text-align: center;
+				margin-bottom: 5px;
+			}
+
+			.pkg-li-hght li {
+				font-size: 13px;
+			}
+		
+			.business-sec-3-content h2 {
+				text-align: center;
+				font-size: 30px;
+			}
+		
+			.more-sports-box {
+				padding: 15px;
+				width: 100%;
+				min-height: auto;
+			}
+		
+			.more-sports-box h3 {
+				font-size: 24px;
+			}
+		
+			.business-sec-2-content p {
+				text-align: center;
+			}
+		
+			.business-sec-content p {
+				text-align: center;
+			}
+			.business-sec-2-content h2 {
+				text-align: center;
+				font-size: 24px;
+			}
+		
+			.boxcover h4 {
+				font-size: 12px;
+				height: auto;
+			}
+		
+			.btd-services {
+				min-height: 185px;
+				background-position: 42%;
+				max-width: 97%;
+				border-radius: 50px;
+			}
+		
+			.btd-services-content {
+				padding: 55px 0px 0px 0px;
+				margin-top: 0px;
+			}
+
+			.btd-services-content h3 {
+                font-size: 24px;
+				font-weight: 800;
+			}
+
+			.btd-services-content h3 br {
+                display: none;
+			}
+		
+			.more-sports .line {
+				display: block;
+				height: 145px;
+			}
+		
+			.business-sec-2-content h2 br {
+				display: none;
+			}
+		
+			.more-sports-white-box {
+			min-height: auto;
+			margin-bottom: 10px;
+			padding: 30px;
+			width: 100%;
+		}
+		.more-sports .order-text, .more-sports .order-text a {
+			font-size: 22px;
+			text-align: center;
+		}
+			.availability-sec {
+				padding-top: 0;
+			}
+			.tips-sec-content .tips-content-btn {
+				margin-bottom: 7px;
+				width: 200px;
+			}
+			
+		.footer-privacy-main {
+			height: auto;
+		}
+
+		.big-game-content p {
+			margin: 0px 0 20px;
+		}
+			
+		.privacy-text {
+			text-align: center;
+			padding: 15px 0;
+		}
+		.tips-sec {
+			background-position: -111px -28px;
+			padding-bottom: 20px;
+			border-radius: 50px;
+			height: auto;
+			max-width: 97%;
+		}
+		
+		.every-sunday-content {
+			padding-top: 0px;
+			margin-top: 0px;
+		}
+		
+		.footer-text {
+			font-size: 15px;
+		}
+		
+		.footer-text br {
+			display: none;
+		}
+		
+		.tips-sec h1 {
+			font-size: 80px;
+			margin: 20px 138px 20px;
+			width: 80%;
+		}
+			.footer-content-main {
+				height: auto;
+			}
+			.business-sec-content h2 {
+				font-size: 30px;
+				line-height: 35px;
+			}
+			.package-box-main {
+				min-height: auto;
+				margin-bottom: 15px;
+			}
+			.package-box-main ul {
+				min-height: auto;
+			}
+			.big-game-content {
+				margin-top: 0;
+				padding-left: 0px;
+			}
+			.offers-white-box {
+			min-height: auto;
+			padding: 30px;
+			width: 100%;
+			margin-bottom: 15px;
+		}
+			.offers-sec {
+			padding: 110px 0 0 0;
+		}
+			.mvc-title-img img {
+				width: 100%;
+			}
+			.every-sunday img {
+				width: 100%;
+			}
+			.packages-main .package-note {
+				padding: 0;
+			}
+			.order-today-txt h3 {
+			padding-top: 50px;
+		}
+			.white-box-section img {
+				width: 100%;
+				height: auto;
+				margin-bottom: 15px;
+			}
+		
+			.big-game-content h3 {
+				font-size: 24px;
+				margin: 12px 0px 7px 0px;
+			}
+		
+			.navbar-brand {
+				float: left;
+				width: 100%;
+			}
+		
+			.big-game-sec {
+				width: 97%;
+				padding-top: 30px;
+				border-radius: 50px;
+			}
+			
+	
+
+    
+}
+
+@media screen and (min-width:991px) and (max-width: 1024px) {
+    
+}
+
+@media screen and (min-width:1025px) and (max-width: 1152px) {
+    
+}
+
+@media screen and (min-width:1153px) and (max-width: 1280px) {
+	.container, .container-lg, .container-md, .container-sm {
+        max-width: 95%;
+    }
+		.top-header-tfn-main {
+				height: auto;
+		}
+		.tfn {
+			font-size: 15px;
+			padding: 0px 0;
+			text-align: right;
+			width: 100%;
+			margin-top: 26px;
+		}
+		
+		.tfn a {
+			font-size: 18px;
+		}
+		
+		.head-logo {
+			padding: 10px 0;
+			width: 75%;
+		}
+		.navbar-toggler {
+			background-color: #ffdd66 !important;
+			padding: 5px 10px 9px;
+		}
+		.top-nav-container {
+			margin-top: 2px;
+		}
+		.navbar-toggler-icon {
+			background-image: url("../images/nav.png") !important;
+			background-size: 21px !important;
+		}
+		.main-nav a {
+			font-size: 20px;
+			margin: 6px 0px 0px;
+			padding: 7px 0;
+			border-bottom: none;
+		}
+		
+		.hero-container .hero-package-main h3 {
+			font-size: 26px;
+			margin-top: 10px;
+		}
+			
+		.hero-container .hero-package-main p a {
+			font-size: 12px;
+			text-decoration: underline;
+		}
+			
+		.package-content h3 br {
+			display: none;
+		}
+		
+		.package-content h3 {
+			font-size: 38px;
+			text-align: center;
+		}
+			
+		.offers-white-box h3 br {
+			display: none;
+		}
+			
+		.offers-white-box h3 {
+			text-align: center;
+		}
+			
+		.mvp-sec .mvc-program-box p {
+			text-align: center;
+		}
+			
+		.package-content {
+			margin-bottom: 20px;
+		}
+		
+		.hero-container .hero-package-main h2 {
+			font-size: 35px;
+			font-style: italic;
+			line-height: 35px;
+			padding-top: 15px;
+		}
+		.hero-container .hero-package-main h2 sup {
+			font-size: 18px;
+			margin: 0 0 0 8px;
+			top: -11px;
+		}
+		.hero-container .hero-package-main h4 {
+			font-size: 20px;
+			padding: 15px 0 0;
+		}
+		.hero-container .hero-package-main .price-div {
+			font-size: 45px;
+		}
+			.hero-container .hero-package-main p {
+				width: 100%;
+			}
+			.hero-container .hero-package-main ul {
+			width: 100%;
+		}
+			
+		.tips-sec-content p {
+			margin: 28px 0 20px;
+			padding-right: 0px;
+		}
+		
+		.every-sunday-content h3 {
+			font-size: 20px;
+			line-height: 24px;
+		}
+			
+		.every-sunday-content p {
+			font-size: 16px;
+			line-height: normal;
+		}
+			.hero-container .hero-package-main ul li span {
+				line-height: 15px;
+			}
+		.call-now-main {
+			margin-top: 0px;
+			float: none;
+			width: 100%;
+		}
+			
+		.no-pad-right {
+			padding: 0px 15px 0px !important;
+		}
+			
+		.business-sec-content h2 sup {
+			font-size: 18px;
+		}
+		
+		.quote-form .SearchformGroup .submitForm {
+			width: 90%;
+		}
+				
+		
+		.hero-container .hero-package-main h1 {
+			font-size: 50px;
+		}
+			
+		.call-now-link {
+			width: 100%;
+		}
+		.every-sunday {
+			margin-top: 0;
+			padding: 20px 0px 20px;
+			border-radius: 50px;
+			height: auto;
+			width: 100%;
+			background-position: 57%;
+			border: 1px solid #102641;
+			max-width: 97%;
+		}
+
+		.hght-txt {
+			min-height: 73px;
+		}
+		
+		a.btn-outlineBl {
+			width: 190px;
+			font-size: 12px;
+			height: 40px;
+			padding: 11px 0px 0px;
+		}
+			.every-sunday-img img {
+				width: 100%;
+			}
+			.more-sports {
+				padding: 50px 0;
+				background-image: url('../images/mobile-sports-sec.jpg');
+				background-color: #314150;
+				height: auto;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: cover;
+				border-radius: 50px;
+				max-width: 97%;
+			}
+		
+			.business-sec-3-content p {
+				text-align: center;
+			}
+			.offset-mds-1 {
+				margin-left: 11%;
+			}
+		
+			.choice-card {
+				margin: 0 0px 10px;
+				width: 281px;
+			}
+		
+			.ultimate-card {
+				margin: 0 0px 10px;
+				width: 281px;
+			}
+		
+			.premier-card {
+				margin: 0 0px 10px;
+				width:281px;
+			}
+		
+			.section2-txt {
+				text-align:center;
+			}
+		
+			.btd-pkg-sec .chanals-box h2 {
+				font-size: 30px;
+				text-align: center;
+				margin-bottom: 18px;
+			}
+
+			.pkg-li-hght li {
+				font-size: 13px;
+			}
+		
+			.business-sec-3-content h2 {
+				text-align: center;
+				font-size: 30px;
+			}
+		
+			.business-sec-2-content p {
+				text-align: center;
+			}
+		
+			.business-sec-content p {
+				text-align: center;
+			}
+			.business-sec-2-content h2 {
+				text-align: center;
+				font-size: 24px;
+			}
+		
+			.btd-services {
+				min-height: 185px;
+				background-position: 42%;
+				border-radius: 50px;
+				width: 97%;
+			}
+		
+			.btd-services-content {
+				padding: 55px 0px 0px 0px;
+				margin-top: 0px;
+			}
+
+			.btd-services-content h3 {
+                font-size: 24px;
+				font-weight: 800;
+			}
+
+			.btd-services-content h3 br {
+                display: none;
+			}
+		
+			.more-sports .line {
+				display: block;
+				height: 145px;
+			}
+		
+			.business-sec-2-content h2 br {
+				display: none;
+			}
+		
+			.more-sports-white-box {
+			min-height: auto;
+			margin-bottom: 10px;
+			padding: 30px;
+			width: 100%;
+		}
+			.availability-sec {
+				padding-top: 0;
+			}
+			
+		.footer-privacy-main {
+			height: auto;
+		}
+			
+		.tips-sec {
+			padding-bottom: 20px;
+			border-radius: 50px;
+			height: auto;
+			max-width: 97%;
+		}
+
+		.more-sports-box {
+			width: 100%;
+		}
+
+		.big-game-content {
+			padding-left: 30px;
+			margin-top: 63px;
+		}
+
+		.big-game-image {
+			padding-right: 30px;
+			width: 80%;
+		}
+		
+		.every-sunday-content {
+			padding-top: 0px;
+			margin-top: 0px;
+		}
+		
+		.footer-text {
+			font-size: 15px;
+		}
+		
+		.footer-text br {
+			display: none;
+		}
+		
+		.tips-sec h1 {
+			font-size: 80px;
+			width: 80%;
+		}
+			.footer-content-main {
+				height: auto;
+			}
+			.business-sec-content h2 {
+				font-size: 30px;
+				line-height: 35px;
+			}
+			.package-box-main {
+				min-height: auto;
+				margin-bottom: 15px;
+			}
+			.package-box-main ul {
+				min-height: auto;
+			}
+			.offers-white-box {
+			min-height: auto;
+			padding: 30px;
+			width: 100%;
+			margin-bottom: 15px;
+		}
+			.offers-sec {
+			padding: 110px 0 0 0;
+		}
+			.mvc-title-img img {
+				width: 100%;
+			}
+			.every-sunday img {
+				width: 100%;
+			}
+			.packages-main .package-note {
+				padding: 0;
+			}
+			.order-today-txt h3 {
+			padding-top: 50px;
+		}
+			.white-box-section img {
+				width: 100%;
+				height: auto;
+				margin-bottom: 15px;
+			}
+		
+			.navbar-brand {
+				float: left;
+				width: 100%;
+			}
+		
+			.big-game-sec {
+				width: 97%;
+				padding-top: 30px;
+				border-radius: 50px;
+			}
+    
+}
+
+@media screen and (min-width:1281px) and (max-width: 1366px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 95%;
+    }
+	.more-sports-box {
+		width: 98%;
+	}
+	.big-game-content {
+		padding-left: 42px;
+	}
+
+	.big-game-image {
+		padding-right: 30px;
+	}
+
+}
+
+@media screen and (min-width:1366px) and (max-width: 1920px) {
+    .container, .container-lg, .container-md, .container-sm {
+        max-width: 95%;
+    }
+	.more-sports-box {
+		width: 98%;
+	}
+	.big-game-content {
+		padding-left: 42px;
+	}
+
+	.big-game-image {
+		padding-right: 30px;
+	}
+
+	  @supports (-moz-appearance:none) {
+		.tiphead h2 {
+			margin-top: 30px;
+		  }
+	}
+	
+
+}
+
+
+@media screen and (min-width:1200px) {
+
+.container {
+	max-width: 1340px !important;
+}
+
+}

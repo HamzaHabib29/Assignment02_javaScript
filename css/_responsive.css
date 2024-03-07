@@ -1,0 +1,917 @@
+﻿@media all {
+.main-container, .header, .top-wrapper {-webkit-transition:width 1s ease-in-out; -moz-transition:width 1s ease-in-out; -o-transition:width 1s ease-in-out; transition:width 1s ease-in-out;}
+}
+
+@media screen and (min-width:980px) and (max-width:1050px) {
+.business-pack-head {font-size:19px; font-weight:300; padding:111px 27px; text-align:center !important;}
+.price-table-left {min-height:733px;}
+.evo {height:366px;}
+.business-pack .tag {margin-right:37px; width:50%;}
+
+.business-pack-res .tag {margin-right:37px; width:50%;}
+
+.container {width:100%;}
+.heero-txt h2 {line-height:62px;}
+.exp-img img {width:100%; height:auto; min-height:223px;}
+.exp-box {padding:13px 13px 0 13px; min-height:398px;}
+.exp-box h4 {font-size:20px; margin-top:18px;}
+.exp-box p {margin-bottom:10px; margin-top:0;}
+.channel-list-div {width:100%;}
+.col-1 {width:55px;}
+.col-2 {width:117px;}
+.txt-small {font-size:10px !important; padding-top:0 !important;}
+.col-3 {width:133.7px;}
+.main-nav > ul > li > span {line-height:23px;}
+
+.heero-image .offerstart-div {margin:19px -29px 0 0;}
+.res-padding {float:right; margin-top:1px; width:38%;}
+
+.nationwide-txt p {font-size:14px; line-height:23px;}
+sup {top:-0.5em;}
+.heero-txt h2 sup {float:none; font-size:15px; margin-top:23px;}
+.Includewrap {margin-bottom:0; margin-left:27px; margin-top:15px; text-align:left; width:100%;}
+.navbar-nav {margin:0.5px -15px;}
+.sport-center h3, .experience-section h3, .tvfor-office h3, .upgrade-section h3, .nationwide-section h3, .general-section h3, .business-type-section h3 {font-size:24px;}
+.heero-section .res-layout {float:left; width:50%;}
+.sport-center .availability {float:left; width:49%;}
+.general-section h3 {padding:0; text-align:center;}
+.mvp-img img {text-align:center; width:45%; height:auto;}
+.general-section p {text-align:center;}
+.contact-tfn h5 {text-align:center;}
+.installDTV h3, .installDTV p {text-align:center !important;}
+.sport-center h3 {margin-bottom:13px; text-align:left;}
+.sport-center h3 {margin-bottom:13px;}
+.heero-txt h2 sup {margin-top:10px;}
+.heero-txt h2 {font-size:24px; text-align:left;}
+.heero-txt h3 {font-size:26px; line-height:22px; text-align:left;}
+.price-des p {text-align:left; margin:0px 0px 0px 13px;}
+.tvfor-office {background-size:58%;}
+.heero-txt p {text-align:left;}
+.nationwide-section h3 {text-align:center;}
+.nationwide-txt {text-align:center;}
+.new-links {border:1px solid #09c; color:#09c; float:left; font-family:"Oxygen", sans-serif; font-size:12px; margin:1%; padding:8px 38px; text-align:center; width:auto;}
+.nationwide-section h3 {padding:0 14px;}
+input.getaquote-btn {font-size:21px; height:42px; text-align:center; width:100%;}
+.heero-txt p {font-size:16px; line-height:24px;}
+.nationwide-section h3 sup {font-size:13px;}
+.footer p {margin:0 0 0 1px;}
+.main-nav > ul > li > span > a {font-size:15px;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+
+.more-games-box {min-height:603px;}
+.select-business-box {min-height:631px;}
+}
+
+@media screen and (min-width:800px) and (max-width:977px) {
+.home a {border-left:1px solid #ccc; font-size:22px !important;}
+
+.brust-wrap {float:right; margin:-230px 197px 0 0;}
+.res-img {width:63%;}
+.main-nav > ul > li > span > a {font-size:15px; padding:11px 10px;}
+.container {width:100%;}
+.quote-form h2 {margin:0;}
+.heero-txt h3 {font-size:23px; line-height:25px; text-align:left;}
+.navbar-nav {margin:0.5px -15px;}
+.tvfor-office {background-size:58%;}
+.price-des p {text-align:left; margin:0px 0px 0px 13px;}
+.commercial-txt p {font-size:13px;}
+.heero-txt p {font-size:13px; line-height:18px; margin:10px 0 0;}
+.offerstart-div {margin-top:15px;}
+.experience-section, .upgrade-section, .general-section, .business-type-section {padding:25px 0;}
+.sport-center h3, .experience-section h3, .tvfor-office h3, .upgrade-section h3, .nationwide-section h3, .general-section h3, .business-type-section h3 {font-size:24px !important; margin:0 0 15px 0;}
+.nationwide-txt p, .general-section p, .sport-center p, .upgrade-section p, .business-type-section p {font-size:16px; line-height:22px;}
+.installDTV {width:100% !important;}
+.installDTV h3 {width:100% !important; text-align:center;}
+.installDTV p {width:100% !important; text-align:center;}
+.mvp-img {margin-bottom:10px; text-align:center;}
+.mvp-img img {height:auto; margin-bottom:10px; text-align:center; width:55%;}
+.footer p {font-size:12px; margin:0 0 0 17px;}
+.general-section h3 {padding:0; text-align:center;}
+.heero-txt {margin-bottom:33px;}
+.new-links {border:1px solid #09c; color:#09c; float:left; font-family:"Oxygen", sans-serif; font-size:12px; margin:1%; padding:8px 12px; text-align:center; width:auto;}
+.getaquote-btn {font-size:26px; line-height:39px;}
+.res-padding {float:right; margin-top:1px; width:38%;}
+.nationwide-section {padding:20px 0;}
+.sports-section {padding:60px 0;}
+.sports-box h3 {font-size:26px; line-height:36px;}
+.sports-box {min-height:340px;}
+.exp-img img {height:180px; width:100%;}
+.exp-box h4 {font-size:16px; padding:6px 0 12px;}
+.exp-box {min-height:370px; border:6px solid #fff; padding:10px 5px;}
+.exp-box p {font-size:13px; line-height:19px; margin-bottom:0; margin-top:8px;}
+.channel-detail {font-size:12px; padding:7px 8px;}
+.channel-price {padding:100px 0 0 44px;}
+.channel-price-half {padding-left:18px;}
+.col-2 {width:91.8px;}
+.price-logo-div h4 {font-size:11px;}
+.price-pay h6 {font-size:10px; padding:5px 0 0;}
+.price-pay h5 {font-size:10px;}
+.channel-list-div {width:100%;}
+.col-1 {width:38px;}
+.fco, .fco-half, .fco-full {font-size:12px;}
+.txt-small {font-size:10px !important; padding-top:0 !important;}
+.col-3 {width:105px;}
+.business-pack-head {font-size:19px; font-weight:300; padding:111px 27px; text-align:center !important;}
+
+.business-pack .tag {margin-right:37px; width:50%;}
+
+.channel-price-office {padding:35px 0 0 22px;}
+
+.hotel-main-box {margin-top:15px;}
+input.getaquote-btn {height:44px; text-align:center; width:100%; font-size:22px;}
+.form-row input[type="text"] {font-size:9px;}
+.main-nav > ul > li > span {line-height:31px;}
+.savebig {background-position:right 163px top 104px; background-size:38% auto;}
+.heero-image .offerstart-div {margin:64px -32px 0 0;}
+.Includewrap {width:100%; text-align:left; margin:0 auto; font-size:30px;}
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d; border-right:0 solid #fff; padding:11px 0 11px 0px;}
+.home a {border-left:0px solid #ccc; font-size:22px !important;}
+.installDTV h3, .installDTV p {font-size:14px;}
+.heero-txt h2 sup {float:none; font-size:13px; line-height:0;}
+.nationwide-section h3 sup {font-size:16px; top:-1.5em;}
+.heero-txt h2 {font-size:24px; text-align:left; line-height:38px;}
+.heero-txt p {text-align:left;}
+.nationwide-section h3 {text-align:center; margin-top:16px;}
+.nationwide-txt {text-align:center;}
+.nationwide-section h3 {padding:0 14px;}
+.main-nav > ul > li > span > a {font-size:15px;}
+.privacy-section h3 {font-size:19px;}
+.heero-section .res-layout {float:left; width:50%;}
+.sport-center .availability {float:left; width:50%;}
+
+.business-pack-head {font-size:19px; font-weight:300; padding:111px 27px; text-align:center !important;}
+
+.business-pack .tag {margin-right:37px; width:50%;}
+
+.business-pack-res .tag {margin-right:37px; width:50%;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+
+.more-games-box {min-height:591px;}
+
+.hero_bg .heero-bottom-box {padding:22px 0 0;}
+
+.select-business-box {min-height:630px;}
+.evo {height:366px;}
+}
+
+@media screen and (min-width:768px) and (max-width:799px) {
+.brust-wrap {float:right; margin:-250px 167px 0 0;}
+.res-img {width:63%;}	 
+.home a {border-left:1px solid #ccc; font-size:22px !important;}
+.main-nav > ul > li > span > a {font-size:15px; padding:11px 10px;}
+.navbar-nav {margin:0.5px -15px;}
+.installDTV {width:100% !important;}
+.installDTV h3 {width:100% !important; text-align:center !important;}
+.installDTV p {width:100% !important; text-align:center !important;}
+.container {width:100%;}
+.quote-form h2 {margin:0;}
+.heero-txt h2 {font-size:25px; font-weight:normal; line-height:normal; margin-top:15px;}
+.heero-txt p {font-size:16px; line-height:24px; margin:10px 0 0;}
+.offerstart-div {margin-top:15px;}
+.new-links {border:1px solid #09c; color:#09c; float:left; font-family:"Oxygen", sans-serif; font-size:12px; padding:8px 9px; text-align:center; width:auto;}
+.getaquote-btn {font-size:26px; line-height:39px;}
+.res-padding {float:right; margin-top:0px; width:38%;}
+.nationwide-section {padding:25px 0;}
+.nationwide-section h3 {font-size:30px; padding:0;}
+.nationwide-txt p, .tvfor-office p {font-size:16px;}
+.sports-section {padding:60px 0;}
+.sports-box h3 {font-size:26px; line-height:36px;}
+.sports-box {min-height:338px;}
+.experience-section {padding:20px 0;}
+.exp-img img {height:180px; width:100%;}
+.exp-box h4 {font-size:16px; padding:6px 0 12px;}
+.exp-box {min-height:370px; border:4px solid #fff; padding:10px 5px;}
+.exp-box p {line-height:21px; margin-bottom:0; margin-top:8px;}
+.more-games-box {min-height:610px;}
+.heero-txt h2 {font-size:35px; line-height:31px; margin-top:15px;}
+.heero-txt h3 {font-size:23px; line-height:24px; text-align:left;}
+.sport-center .Customized h3, .Customized p {text-align:center !important;}
+.tvfor-office {background-size:58%;}
+.price-des p {text-align:left; margin:0px 0px 0px 13px;}
+.commercial-txt p {font-size:13px;}
+.contact-tfn h5 {text-align:center;}
+.installDTV h3, .installDTV p {text-align:center;}
+.sport-center h3 {text-align:left;}
+.general-section h3 {font-size:50px; padding:0; text-align:center;}
+.general-section p {text-align:center;}
+.mvp-img {text-align:center; margin-bottom:10px;}
+.mvp-img img {text-align:center; margin-bottom:10px; width:60%; height:auto;}
+.sport-center h3 {font-size:24px !important;}
+.more-games {padding:50px 0;}
+.experience-section, .upgrade-section, .general-section, .business-type-section, .sport-center {padding:25px 0;}
+.sport-center h3, .experience-section h3, .tvfor-office h3, .upgrade-section h3, .nationwide-section h3, .general-section h3, .business-type-section h3 {font-size:30px; margin:0 0 15px 0;}
+.nationwide-txt p, .general-section p, .sport-center p, .upgrade-section p, .business-type-section p {font-size:13px; line-height:25px;}
+.channel-detail {font-size:12px; padding:7px 8px;}
+.channel-price {padding:100px 0 0 44px;}
+.channel-price-half {padding-left:18px;}
+.col-2 {width:87.8px;}
+.price-logo-div h4 {font-size:11px;}
+.price-pay h6 {font-size:10px; padding:5px 0 0;}
+.price-pay h5 {font-size:10px;}
+.channel-list-div {width:100%;}
+.col-1 {width:38px;}
+.fco, .fco-half, .fco-full {font-size:12px;}
+.txt-small {font-size:10px !important; padding-top:0 !important;}
+.col-3 {width:100px;}
+.business-pack-head {font-size:16px; font-weight:400; padding:10px;}
+.hotel-main-box {margin-top:15px;}
+.form-row input[type="text"] {font-size:9px;}
+.privacy-section h3 {font-size:19px;}
+.main-nav > ul > li > span {line-height:31px;}
+.savebig {background-position:right 148px top 110px; background-size:40% auto;}
+.heero-image .offerstart-div {margin:62px -37px 0 0;}
+.heero-txt {margin-bottom:25px;}
+.home a {border-left:0px solid #ccc; font-size:22px !important;}
+.Includewrap {width:100%; text-align:left; margin:0 auto; font-size:30px;}
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d; border-right:0 solid #fff; padding:11px 0 11px 0px;}
+.sport-center h3, .experience-section h3, .tvfor-office h3, .upgrade-section h3, .nationwide-section h3, .general-section h3, .business-type-section h3 {font-size:24px;}
+.heero-txt h2 sup {margin-top:10px;}
+.heero-txt h2 {display:flex; font-size:24px; text-align:left;}
+.heero-txt p {text-align:left;}
+.nationwide-section h3 {text-align:center;}
+.nationwide-txt {text-align:center;}
+.nationwide-section h3 {padding:0 14px;}
+input.getaquote-btn {font-size:21px; height:42px; text-align:center; width:100%;}
+.heero-txt p {font-size:12px; line-height:19px;}
+.footer p {margin:0 0 0 16px;}
+.nationwide-section h3 sup {font-size:13px; top:-1.5em;}
+.main-nav > ul > li > span > a {font-size:15px;}
+.heero-section .res-layout {float:left; width:50%;}
+.sport-center .availability {float:left; width:50%;}
+
+.business-pack-head {font-size:19px; font-weight:300; padding:111px 27px; text-align:center !important;}
+
+.business-pack .tag {margin-right:37px; width:50%;}
+
+.channel-price-office {padding:35px 0 0 21px;}
+
+.business-pack-res .tag {margin-right:37px; width:50%;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+
+.hero_bg .heero-bottom-box {padding:22px 0 0;}
+
+.select-business-box {min-height:694px;}
+.evo {height:366px;}
+}
+
+@media screen and (min-width:600px) and (max-width:767px) {
+.privacy-section h3 {font-size:15px;}
+.evo {height:269px;}
+.evo-full {height:1283px;}
+.privacy-section p, .privacy-section ul li {font-size:14px;}	 
+	 
+.commercial-txt {float:left;}
+.hero_bg {/*background:#000 url("../images/hero-bg.jpg") repeat-x scroll center top; */
+	background-color:#181818; height:auto; padding:0 0 15px;}
+/*.hero_bg .heero-image {height:210px;}*/
+.brust-wrap {margin:auto; text-align:center;}
+.top-link-div {text-align:center; width:100%;}
+.hero_bg .heero-txt p {font-size:16px;}
+.sport-center .div h3 {text-align:center !important;}
+.sport-center .div p {text-align:center !important;}
+.upgrade-section h3 {text-align:left !important;}
+.upgrade-section p {text-align:left !important;}
+.business-type-section p {text-align:left !important;}
+.business-type-section h3 {font-size:24px; line-height:26px; text-align:left !important;}
+.business-type-section p span.disclaimer-txt {font-size:13px; text-align:left !important;}
+.sportcenter-image img {margin-left:15%; width:71%;}
+.price-table-div {width:97%;}
+.logo-section {padding:5px 0;}
+.navbar-nav {margin:0.5px -15px;}
+.offerstart-div {margin-left:12px; margin-top:8px;}
+.logo {margin:10px 0; text-align:center;}
+.header-tfn {position:absolute; top:14px; z-index:123;}
+.header-tfn h3 {margin-top:0; text-align:center;}
+/*.heero-image {float:left; margin-top:55px;}*/
+.quote-form h2, .price-table-section {margin:0;}
+.heero-txt h2 {font-size:25px; line-height:25px; margin-top:20px;}
+
+.heero-txt h3 {font-size:22px; line-height:22px;}
+.nationwide-section {padding:20px 0;}
+.nationwide-section h3 {font-size:24px; padding:0 0 0 14px; text-align:center;}
+.heero-txt h2 sup {float:none;}
+.nationwide-txt {text-align:center;}
+.modal-body > p {text-align:center;}
+.modal-header > h4 {text-align:center;}
+.price-des p {font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:left;}
+.nationwide-txt p {font-size:18px; line-height:24px; margin-top:10px; text-align:center;}
+.nationwide-section h3 sup {font-size:13px; top:-1.5em;}
+span.disclaimer-txt {font-size:14px;}
+.nationwide-img img {text-align:center; margin:0 auto;}
+.sports-section {padding:50px 0;}
+.sports-box {margin-bottom:20px; min-height:auto;}
+.exp-box {margin-bottom:20px;}
+.experience-section {padding:20px 0;}
+.more-games-box {margin-bottom:15px; min-height:auto;}
+.mvp-img img {width:82%; height:auto;}
+.price-table-left {width:17%;}
+.price-table-right {width:83%;}
+.business-pack {width:50%;}
+.scroll-group {width:912px;}
+.price-des p {text-align:center;}
+.channel-list-div {width:100%;}
+.channel-group {overflow-x:scroll; width:498px;}
+.channel-group-scroll {width:1032px;}
+.col-1 {width:70px;}
+.office-scroll {width:912px;}
+.price-table-office {width:568px;}
+.hotel-channel-group {overflow-x:scroll; width:497px;}
+.hotel-group-scroll {width:1032px;}
+.business-pack-head {font-size:18px; height:125px; line-height:24px; padding:21px 0 0;}
+
+.channel-detail {height:110px;}
+
+.heero-bottom-box {border:1px solid #ccc; margin-bottom:5px; padding:8px 5%;}
+.general-section, .sport-center, .more-games, .price-table-section, .upgrade-section, .business-type-section {padding:15px 0;}
+.general-section h3, .sport-center h3, .experience-section h3, .tvfor-office h3, .upgrade-section h3, .business-type-section h3 {font-size:25px; margin-bottom:15px; margin-top:8px; padding:0;}
+.general-section p, .sport-center p, .more-games-box p, .exp-box p, .tvfor-office p, .upgrade-section p, .business-type-section p {font-size:16px; line-height:22px; text-align:left;}
+.contact-tfn h5 {text-align:center;}
+.upgrade-section h3 {text-align:left; font-size:24px;}
+.tvfor-office p {text-align:center;}
+.general-section h3 {text-align:center;}
+.general-section p {text-align:center;}
+.tvfor-office h3 {text-align:center;}
+.select-business-box {margin-bottom:12px;}
+input.getaquote-btn {width:100%;}
+/*.savebig {background-position:center top 335px; background-size:684px auto;}*/
+.heero-image .offerstart-div {margin:45px 0 0 321px;}
+.heero-txt {margin-top:0px;}
+.Includewrap {margin:9px 13px 0; text-align:left; width:100%; font-size:35px;}
+.heero-section .res-layout {float:left; width:49%;}
+.sport-center .availability {float:left; width:49%;}
+.heero-txt {text-align:left;}
+.hero_bg .heero-bottom-box {border:none;}
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d; padding:11px 0 11px 0px;}
+.commercial-txt p {text-align:left; font-size:13px;}
+.sport-center h3 {font-size:19px; text-align:left;}
+.sport-center p {text-align:left;}
+.sports-box h3 {font-size:22px; text-align:left;}
+.new-links {border:1px solid #09c; color:#09c; float:left; font-family:"Oxygen", sans-serif; font-size:15px; margin:1%; padding:8px 10px; text-align:center; width:31%;}
+.sports-box p {font-size:12px; line-height:21px; text-align:left;}
+.gray-bg {background-color:#ebebeb; text-align:left;}
+.sportcenter-image img {margin-left:15%; width:71%;}
+.footer p {text-align:left; margin:0px 0px 0px 12px;}
+.tvfor-office {background-image:none; background-position:right top; background-repeat:no-repeat; padding:38px 0;}
+.main-nav > ul > li > span > a {font-size:15px;}
+
+.business-pack-res {width:100%;}
+
+.channel-price {height:214px; padding:58px 0 0 113px; width:100%;}
+
+.channel-price-half {padding-left:124px;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+}
+
+@media screen and (min-width:480px) and (max-width:599px) {
+.top-link-div {font-size:11px; text-align:center; width:100%;}
+.evo-full {height:1527px;}
+.hero_bg {/*background:#000 url("../images/hero-bg.jpg") repeat-x scroll center top; */
+	background-color:#181818; height:auto; padding:0 0 15px;}
+
+.header-tfn {position:absolute; top:14px; z-index:123;}
+.savebig {background-position:center top 319px; background-size:550px auto;}
+.sport-center .div h3 {text-align:center !important;}
+.sport-center .div p {text-align:center !important;}
+.upgrade-section h3 {text-align:left !important;}
+.upgrade-section p {text-align:left !important;}
+.business-type-section p {text-align:left !important;}
+.business-type-section h3 {font-size:24px; line-height:26px; text-align:left !important;}
+.business-type-section p span.disclaimer-txt {font-size:13px; text-align:left !important;}
+.sport-center h3 {text-align:left !important;}
+.sport-center p {text-align:left !important;}
+.right-for-business {margin:0; padding:0; text-align:left;}
+.new-links {border:1px solid #09c; color:#09c; float:left; font-family:"Oxygen", sans-serif; font-size:11px; margin:1%; padding:8px 5px; text-align:center; width:30%;}
+.heero-section .res-layout {width:49%; float:left;}
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d; border-right:0 solid #fff; padding:11px 0;}
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d;}
+.sport-center h3 {font-size:35px;}
+.logo-section {padding:8px 0;}
+.logo {margin:10px 0; text-align:center;}
+.privacy-section h3 {font-size:12px; text-align:left;}
+.privacy-section p, .privacy-section ul li {font-size:12px;}
+
+.privacy-section h2 {font-size:42px;}
+input.getaquote-btn {background-size:110% auto; width:100%;}
+.quote-form h2 {font-size:20px; line-height:23px; margin:0; padding:0 0 10px;}
+.header-tfn h3 {font-size:25px; margin-top:5px; text-align:center;}
+.heero-image {float:none; margin-top:25px;}
+.heero-txt h2 {font-size:18px; line-height:normal;}
+.heero-txt h3 {font-size:20px; font-weight:300; line-height:normal; margin:0 0 15px;}
+.heero-txt p {font-size:14px;}
+.commercial-txt {float:left;}
+.heero-bottom-box {border:1px solid #ccc; margin-bottom:5px; padding:3% 5%;}
+.brust-wrap {margin:auto; text-align:center;}
+.general-section h3 {font-size:35px; margin-bottom:15px; margin-top:0; padding:0;}
+.more-games {padding:50px 0;}
+.more-games-box {margin-bottom:15px;}
+.nationwide-section h3, .sport-center h3, .sports-box h3, .tvfor-office h3, .upgrade-section h3, .business-type-section h3 {font-size:24px; line-height:30px; margin:0; padding:0; text-align:left;}
+.general-section h3 {font-size:25px; line-height:30px;}
+.nationwide-txt p {font-size:16px; line-height:22px; margin-left:-15px; margin-top:10px; text-align:left;}
+.sport-center p, .sports-box p, .tvfor-office p, .upgrade-section p, .business-type-section p {font-size:12px; line-height:18px; margin-top:10px; text-align:left;}
+.tvfor-office p {text-align:center;}
+.nationwide-section, .sport-center, .sports-section .experience-section, .upgrade-section, .business-type-section {padding:20px 0;}
+.nationwide-img img {text-align:center; margin:0 auto;}
+.sports-box {margin-bottom:20px; min-height:auto;}
+.sports-tfn p {font-size:28px; line-height:35px; margin-top:10px;}
+.exp-box p, .general-section p {font-size:13px; line-height:18px; margin-top:0x;}
+.select-business-box p, .select-business ul li {font-size:14px; line-height:22px;}
+.select-business-box {margin-bottom:12px;}
+.experience-section h3 {padding:0; line-height:30px; text-align:center; font-size:24px;}
+.exp-box {margin-bottom:20px;}
+.mvp-img img {width:100%; height:auto;}
+.price-table-left {width:13%;}
+.price-table-right {width:87%;}
+.business-pack {width:100%;}
+.scroll-group {width:912px;}
+.channel-list-div {width:100%;}
+.modal-body > p {text-align:center;}
+.modal-header > h4 {text-align:center;}
+.channel-group {overflow-x:scroll; width:378px;}
+.channel-group-scroll {width:1032px;}
+.col-1 {width:70px;}
+.tvfor-office {background-image:none;}
+.office-scroll {width:912px;}
+.price-table-office {width:448px; overflow-x:scroll;}
+.hotel-channel-group {overflow-x:scroll; width:377px;}
+.hotel-group-scroll {width:1032px;}
+.business-hotel {width:100%;}
+.business-pack-head {font-size:20px; height:125px; line-height:24px; padding:21px 0 0;}
+
+.channel-detail {height:auto;}
+
+.channel-office {height:auto; padding:10px;}
+.evo {height:264px;}
+.heero-image .offerstart-div {float:none; margin:135px auto 0;}
+.heero-txt h2 sup {font-size:15px; margin-top:14px; float:none;}
+.heero-txt {margin-top:0px;}
+.Includewrap {margin:0 auto; width:100%; font-size:24px; text-align:center;}
+.hero_bg .heero-bottom-box {padding:20px 0 0; border:none;}
+.commercial-txt p {text-align:center; font-size:13px;}
+.more-games-box h3 {text-align:center;}
+.more-games-box p {text-align:center;}
+.nationwide-section h3, .sport-center h3, .sports-box h3, .tvfor-office h3, .upgrade-section h3, .business-type-section h3 {text-align:center;}
+.upgrade-section p {text-align:center; font-size:13px;}
+.business-type-section p {text-align:center;}
+.nationwide-section h3 sup {font-size:20px;}
+.nationwide-txt p {text-align:center;}
+.sport-center p {text-align:center;}
+.sports-box p {text-align:center;}
+span.disclaimer-txt {text-align:center; font-size:13px;}
+.sportcenter-image img {margin-left:15%; width:71%;}
+.mvp-img {margin:0 auto; text-align:center; width:70%;}
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {height:auto; max-width:100%;}
+.gray-bg {background-color:#ebebeb; text-align:left;}
+.footer p {font-size:11px; text-align:center;}
+.form-row input[type="text"] {font-size:11px;}
+input.getaquote-btn {font-size:22px;}
+.navbar-nav {margin:0.5px -15px;}
+.main-nav > ul > li > span > a {font-size:15px;}
+.sport-center .availability {width:49%; float:left;}
+
+.business-pack-res {width:100%;}
+
+.channel-price {padding:58px 0 0 113px; width:100%;}
+
+.channel-price-half {padding-left:124px;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+
+.sports-section {padding:50px 0 32px;}
+}
+ and (max-width:479px) {
+.header-tfn {position:absolute; top:10px; z-index:123;}
+.evo-full {height:1148px;}
+.availability {margin-bottom:20px;}
+.hero_bg {/*background:#000 url("../images/hero-bg.jpg") repeat-x scroll center top; */
+	background-color:#181818; height:auto; padding:0 0 15px;}
+.hero_bg .heero-image {height:210px;}
+
+
+
+body {margin-top:10px;}
+.heero-txt h2 sup {float:none;}
+.new-links {width:100%;}
+.top-link-div {font-size:11px; text-align:center; width:100%;}
+.logo {text-align:center;}
+.header-tfn h3 {font-size:22px; margin-top:10px; text-align:center;}
+.quote-form h2 {font-size:14px; line-height:18px; margin-bottom:0;}
+.privacy-section h2 {font-size:46px;}
+.privacy-section h3 {font-size:15px;}
+.privacy-section p, .privacy-section ul li {font-size:12px;}
+.navbar-nav {margin:0.5px -15px;}
+.main-nav > ul > li > span > a {font-size:15px;}
+.form-left, .form-right {margin-left:2px; width:47%;}
+.form-row input[type="text"] {font-size:11px; padding:7px 6px;}
+.getaquote-btn {height:32px; font-size:22px; line-height:30px;}
+.heero-txt h2 {font-size:18px; line-height:24px; margin-top:10px;}
+.heero-txt p {font-size:13px; line-height:20px;}
+.offerstart-div {margin-top:12px;}
+.commercial-txt {float:left;}
+.heero-bottom-box {border:1px solid #ccc; margin-bottom:5px; padding:3% 5%;}
+.heero-bottom-box h4 {line-height:22px;}
+.nationwide-section h3, .general-section h3, .tvfor-office h3, .sport-center h3, .more-games-box h3, .upgrade-section h3, .business-type-section h3 {font-size:24px; line-height:28px; margin:0; padding:0; text-align:left;}
+.select-business-box p {text-align:left !important;}
+.nationwide-txt {margin-left:-15px; margin-right:-15px;}
+.nationwide-txt p, .general-section p, .sport-center p, .more-games-box p, .tvfor-office p, .select-business-box p, .select-business ul li, .right-for-business li, .upgrade-section p, .business-type-section p {font-size:12px; line-height:20px; margin-top:5px;}
+.tvfor-office p {text-align:center;}
+.upgrade-section p {text-align:center;}
+span.disclaimer-txt {text-align:center;}
+.sports-box p {font-size:12px; line-height:20px; margin-left:10px; margin-right:10px; margin-top:5px; text-align:center;}
+.sports-box {min-height:auto;}
+.sports-section, .select-business, .sport-center, .general-section, .upgrade-section {padding:25px 0;}
+.exp-box p {font-size:13px; line-height:19px; margin-bottom:0; margin-top:0;}
+.sportcenter-image img {margin-left:15%; width:71%;}
+.business-type-section p {text-align:center;}
+.sports-box h3, .select-business-box h3 {font-size:20px; line-height:25px; margin-top:5px; text-align:center;}
+.sports-box p, {text-align:center;}
+.sports-box, .select-business-box {margin-bottom:10px; padding:15px;}
+.brust-wrap {float:none; margin:auto; text-align:center;}
+.sport-center .div h3 {text-align:center !important;}
+.sport-center .div p {text-align:center !important;}
+.upgrade-section h3 {text-align:left !important;}
+.upgrade-section p {text-align:left !important;}
+.business-type-section p {text-align:left !important;}
+.business-type-section h3 {text-align:left !important;}
+.sports-tfn p {font-size:22px; line-height:35px; margin-bottom:0; margin-top:10px;}
+.experience-section h3 {font-size:22px; line-height:25px; margin:18px 0 12px; padding:0; text-align:center;}
+.experience-section, .nationwide-section, .general-section, .sport-center, .more-games, .price-table-section, .business-type-section {padding:20px 0;}
+.price-table-section {margin:0;}
+.evo {height:298px;}
+.exp-box {margin-bottom:20px; padding:12px 15px;}
+.exp-box h4 {font-size:17px; margin:0; padding:0 0 10px;}
+.exp-img img {width:100%; height:auto;}
+.tvfor-office {background-image::none;}
+.mvp-img img {width:100%; height:auto;}
+.price-table-left {width:20%;}
+.price-table-right {width:80%;}
+.business-pack {width:100%;}
+.scroll-group {width:912px;}
+.channel-list-div {width:100%;}
+.channel-group {overflow-x:scroll; width:218px;}
+.channel-group-scroll {width:1032px;}
+.hotel-channel-group {overflow-x:scroll; width:218px;}
+.hotel-group-scroll {width:1032px;}
+.col-1 {width:70px;}
+.heero-txt h3 {font-size:18px; margin:8px 0 17px;}
+.tvfor-office {background-image:none;}
+.office-scroll {width:912px;}
+.price-table-office {width:100%;}
+.txt-small {font-size:10px !important; padding-top:0 !important;}
+.business-hotel {width:100%;}
+.business-pack-head {font-size:15px; height:125px; padding:33px 0 0; line-height:21px;}
+
+.channel-detail {height:auto;}
+
+.evo-whats {height:36px;}
+.evo-half {height:147px;}
+
+.channel-office {height:auto; padding:10px;}
+.logo-section {margin-bottom:4px; padding:8px 0; position:relative;}
+.more-games-box {margin-bottom:8px; min-height:auto;}
+.general-section p {text-align:center;}
+.hotel-bg {padding:50px 0;}
+.upgrade-section {padding:50px 0;}
+input.getaquote-btn {background-image:url("../images/getaquote-btn.png"); background-repeat:repeat; background-size:174% auto; border:0 none; border-radius:8px; color:#fff; cursor:pointer; float:left; font-family:"Oxygen", sans-serif; font-size:25px; height:55px; text-align:center; width:100%;}
+.Includewrap {margin:0 auto 10px; text-align:center; width:100%; font-size:24px;}
+.hero_bg .heero-bottom-box {border:medium none; min-height:48px; padding:0;}
+
+.savebig {background-position:right -54px top 284px; background-size:449px auto; position:relative;}
+.heero-image .offerstart-div {float:none; margin:121px auto 0;}
+.heero-txt h2 sup {font-size:11px; margin-top:23px; top:-1.5em;}
+.quote-form {margin:20px 0 0;}
+
+.business-pack-res {width:100%;}
+
+.channel-price {height:148px; padding:17px 0 0 48px; width:100%;}
+
+.channel-price-half {padding-left:44px;}
+
+.res-padding .heero-bottom-box {border-left:0px solid #4d4d4d; border-right:0 solid #fff; padding:11px 0 11px 14px;}
+.commercial-txt p {text-align:center;}
+.nationwide-section h3 sup {font-size:12px; top:-1.5em;}
+.nationwide-section h3, .general-section h3, .tvfor-office h3, .sport-center h3, .more-games-box h3, .upgrade-section h3, .business-type-section h3 {text-align:center;}
+.sport-center p {text-align:center;}
+.sportcenter-image img {margin-left:15%; width:71%;}
+.mvp-img {text-align:center; margin-left:15%; width:75%;}
+.price-table-div {width:100%;}
+.footer p {font-size:11px; text-align:center;}
+.modal-header > h4 {text-align:center;}
+.modal-body > p {text-align:center; font-size:13px;}
+.form-group {margin-bottom:8px;}
+
+.privacy-section ul {padding:0px 0px 0px 17px;}
+}
+
+@media (min-width:0px) {
+.hero_bg {background:#66bdf7 url("../images/main_banner_bg.jpg") center top no-repeat; background-size:cover; min-height:610px; padding:0 0 15px;}
+.header-tfn h3{font-size:20px; font-weight:300; line-height:30px; margin-top:12px; text-align:center;}
+.hero_bg .heero-image{float:left; width:100%; background-position:center 40px; background-size:100%;}
+.heero-image .offerstart-div {float:none; margin:30px auto; margin-top:190px;}
+.heero-txt h2, .heero-txt h1{font-size:24px; font-weight:700; line-height:26px; text-align:center;}	
+.heero-txt h3{font-size:20px; line-height:20px; margin-top:10px; margin-bottom:5px; text-align:center;}
+.heero-txt p{text-align:left; font-size:14px; line-height:20px;}
+.Includewrap{font-size:24px; font-weight:400; margin:25px 0 10px 0; width:100%; text-align:center;}
+.hero_bg .heero-bottom-box{padding:0 0; min-height:40px;}
+
+.general-section h2, .general-section h3,
+.nationwide-section h2, .nationwide-section h3,
+.sport-center h2, .sport-center h3,
+.sport-center h2, .sport-center h3,
+.experience-section h2, .experience-section h3,
+.tvfor-office h3,
+.upgrade-section h3,
+.business-type-section h3{font-size:24px; font-weight:300;}
+
+.general-section h2 sup, .general-section h3 sup,
+.nationwide-section h2 sup, .nationwide-section h3 sup,
+.sport-center h2 sup, .sport-center h3 sup,
+.sport-center h2 sup, .sport-center h3 sup,
+.experience-section h2 sup, .experience-section h3 sup{font-size:12px; font-weight:500; top:-10px;}
+
+.sports-box h3{font-size:24px; font-weight:500;}
+.sports-tfn p{font-size:24px; line-height:25px;}
+.exp-box h4{font-size:18px; font-weight:500;}
+.heero-section .savebig form{float:left; width:100%; position:relative;}
+input.getaquote-btn{font-size:18px; line-height:29px;}
+.sports-tfn p{margin:10px 0 0 0;}
+
+.nationwide-txt p {font-size:14px; line-height:20px;}
+
+.sports-section,
+.sport-center,
+.experience-section,
+.sport-center,
+.general-section,
+.select-business,
+.more-games,
+.upgrade-section,
+.business-type-section,
+.nationwide-section {padding:50px 0 30px 0;}
+
+.general-section h2{margin:0 0 10px 0;}
+
+.tvfor-office {padding:140px 0 10px 0; background-image:url(../images/foroffice.jpg); background-position:center top; background-size:100%;}
+
+.quote-form h2{font-size:16px; line-height:20px; padding:0 0;}
+.quote-form .form-left {width:100%; margin-right:0%; height: 32px;}
+.quote-form .form-right {width:100%; height: 32px;}
+.quote-form .form-group {margin-bottom:0px;}
+}
+
+/* for mobile 320x480 */
+@media (min-width:320px){
+.header-tfn {position:absolute; top:26px; z-index:123;}
+.header-tfn h3{margin-top:0px;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+
+.AdditionalDetails {z-index:9999999;}
+.form-row input[type="text"] {font-size:9px;}
+}
+
+/* for mobile 360x640 */
+@media (min-width:360px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+.tvfor-office {background-position: center -30px;}
+}
+
+/* for iphone6, iphone7 375x667*/
+@media (min-width:375px) {
+.hero_bg .heero-image{background-size:80%;}
+.tvfor-office {background-position:center -30px;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+}
+
+/* for iphone6 plus, iphone7 plus 414x736 */
+@media (min-width:414px) {
+.heero-image .offerstart-div{margin-top:190px;}
+.tvfor-office {background-position:center -50px;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+}
+
+@media (min-width:480px) {
+.header-tfn{top:20px;}
+.hero_bg .heero-image{background-size:70%;}
+.heero-image .offerstart-div{margin-top:190px;}
+.tvfor-office {background-position:center -90px;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+
+.quote-form h2{font-size:18px; line-height:20px; padding:0 0; margin-bottom:15px;}
+.quote-form .form-left {width:48%; margin-right:4%; height:40px;}
+.quote-form .form-right {width:48%; height:40px;}
+.form-row input[type="text"] {font-size:11px;}
+}
+
+@media (min-width:600px) {
+.heero-image .offerstart-div{margin-top:220px;}
+}
+
+
+@media (min-width:640px) {
+.hero_bg .heero-image{background-size:55%;}
+.tvfor-office {background-position:center -102px; padding:198px 0 0 0;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+.form-row input[type="text"] {font-size:13px;}
+
+.general-section h2, .general-section h3,
+.nationwide-section h2, .nationwide-section h3,
+.sport-center h2, .sport-center h3,
+.sport-center h2, .sport-center h3,
+.experience-section h2, .experience-section h3,
+.tvfor-office h3,
+.upgrade-section h3,
+.business-type-section h3{font-size:22px; font-weight:300;}
+
+.nationwide-txt p {font-size:18px; line-height:24px;}
+}
+
+@media (min-width:667px) {
+.tvfor-office {padding-top:190px}
+.tvfor-office{background-size:90%;}
+}
+
+@media (max-width:767px) {
+.logo{text-align:center;}
+.sports-box,
+.more-games-box,
+.select-business-box {margin-bottom:20px; min-height:auto;}
+.more-games {padding:50px 0;}
+.price-table-div{width:100%; overflow:hidden;}
+.price-table-div .price-table-left{width:100px; display:inline-block;}
+.price-table-div .price-table-right{width:700px; overflow-x:scroll;display:inline-block;}
+.price-table-div .price-table-right .business-pack-res{display:inline-block; width:220px;}
+.upgrade-section h3,
+.business-type-section h3{margin:15px 0 10px 0;}
+.price-table-section .tbl_bx{overflow-x:scroll;}
+}
+
+@media (min-width:736px) {
+.tvfor-office{background-size:84%;}
+}
+
+/* for tablet   768x1024 */
+@media (min-width:768px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+.form-row input[type="text"] {font-size:9px;}
+
+.header-tfn{top:0px; float:right; z-index:auto; position:static;}
+.header-tfn h3{text-align:right;}
+.hero_bg {background:#020815 url("../images/main_banner_bg.jpg") left top repeat-x; /*background-size:cover;*/ min-height:610px; padding:0 0 15px;}
+.hero_bg .heero-image{background-size:88%;}
+.heero-image .offerstart-div {margin-top:170px; margin-bottom:5px;}
+.Includewrap{margin:0px 0 6px 0; text-align:left;}
+.sports-tfn p{margin:60px 0 0 0;}
+.tvfor-office {background-position:right top; background-size:58%; padding:50px 0 14px 0}
+
+.sports-section,
+.sport-center,
+.experience-section,
+.sport-center,
+.general-section,
+.select-business,
+.more-games,
+.upgrade-section,
+.business-type-section,
+.nationwide-section {padding:40px 0 50px 0;}
+}
+
+@media (min-width:860px) {
+.hero_bg .heero-image{background-size:78%;}
+.form-row input[type="text"] {font-size:10px;}
+}
+
+@media (min-width:940px) {
+.hero_bg .heero-image{background-size:70%;}
+.heero-txt{margin-bottom:30px;}
+.form-row input[type="text"] {font-size:12px;}
+.quote-form h2{font-size:22px; line-height:27px;}
+}
+
+/* for 1024x768 */
+@media (min-width:1024px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+.header-tfn h3{font-size:24px;}
+.hero_bg .heero-image{background-size:60%; background-position:left 20px;}
+.heero-txt {margin-top:30px; margin-bottom:50px;}
+.heero-image .offerstart-div {float:right; margin:38px 0 0;}
+
+.quote-form h2{font-size:20px; line-height:27px;}
+.form-row input[type="text"] {font-size: 10px;}
+
+.general-section h2, .general-section h3,
+.nationwide-section h2, .nationwide-section h3,
+.sport-center h2, .sport-center h3,
+.sport-center h2, .sport-center h3,
+.experience-section h2, .experience-section h3,
+.tvfor-office h3,
+.upgrade-section h3,
+.business-type-section h3{font-size:28px; font-weight:300;}
+
+}
+
+/* for 1152*/
+@media (min-width:1152px) {
+.heero-txt {margin-bottom:66px;}
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:10px; margin-top:0; top:-11px;}
+.tvfor-office {background-size:50%;}
+
+.quote-form h2{font-size:22px; line-height:27px;}
+
+.sports-section,
+.sport-center,
+.experience-section,
+.sport-center,
+.general-section,
+.select-business,
+.more-games,
+.upgrade-section,
+.business-type-section,
+.nationwide-section {padding:80px 0 50px 0;}
+}
+
+@media (min-width:1200px) {
+.hero_bg .heero-image{background-position:left 56px;}
+.heero-txt {margin-bottom:62px;}
+
+.sports-section,
+.sport-center,
+.experience-section,
+.sport-center,
+.general-section,
+.select-business,
+.more-games,
+.upgrade-section,
+.business-type-section,
+.nationwide-section {padding:70px 0 70px 0;}
+}
+
+/* for 1280x800 */
+@media (min-width:1280px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:15px; margin-top:0; top:-26px;}
+.header-tfn h3{font-size:30px; font-weight:300; line-height:32px;}
+.heero-txt {margin-bottom:5px;}
+.hero_bg {min-height:610px;}
+.hero_bg .heero-image{background-size:70%; background-position:left 20px; padding-bottom:115px;}
+.heero-txt h2, .heero-txt h1{font-size:48px; font-weight:700; line-height:53px;}	
+.heero-txt h3{font-size:35px; line-height:35px; margin-top:10px; margin-bottom:5px;}
+.newheroabs { position: absolute; margin-top: -90px;}
+.Includewrap{font-size:53px; font-weight:400; margin-top:25px;}
+.hero_bg .heero-bottom-box{padding:38px 0 0;}
+
+.general-section h2, .general-section h3,
+.nationwide-section h2, .nationwide-section h3,
+.sport-center h2, .sport-center h3,
+.sport-center h2, .sport-center h3,
+.experience-section h2, .experience-section h3,
+.tvfor-office h3,
+.upgrade-section h3,
+.business-type-section h3{font-size:48px; font-weight:300;}
+
+.general-section h2 sup, .general-section h3 sup,
+.nationwide-section h2 sup, .nationwide-section h3 sup,
+.sport-center h2 sup, .sport-center h3 sup,
+.sport-center h2 sup, .sport-center h3 sup,
+.experience-section h2 sup, .experience-section h3 sup{font-size:22px; font-weight:500; top:-20px;}
+.sports-box h3{font-size:27px; font-weight:500;}
+.sports-tfn p{font-size:40px; line-height:25px;}
+.exp-box h4{font-size:24px; font-weight:500;}
+input.getaquote-btn{font-size:32px; width:100%; line-height:53px;}
+}
+
+/* for 1366x800 */
+@media (min-width:1366px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:15px; margin-top:0; top:-26px;}
+}
+
+/* for 1440x900 */
+@media (min-width:1440px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:15px; margin-top:0; top:-26px;}
+}
+
+/* for 1600x900 */
+@media (min-width:1600px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:15px; margin-top:0; top:-26px;}
+}
+
+/* for 1920x1080 */
+@media (min-width:1920px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:15px; margin-top:0; top:-26px;}
+}
+
+/* for 2560x1440 */
+@media (min-width:2560px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:20px; margin-top:0; top:-23px;}
+}
+
+/* for 4k 3840x2160 */
+@media (min-width:3840px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:20px; margin-top:0; top:-23px;}
+}
+
+/* for 5k 5120 × 2880 */
+@media (min-width:5120px) {
+.heero-txt h2 sup, .heero-txt h1 sup {font-size:22px; margin-top:0; top:-21px;}
+}
