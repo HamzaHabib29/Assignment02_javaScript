@@ -22,19 +22,6 @@
     <link href="https://fonts.googleapis.com/css?family=Sarabun:200,300,400,500,600,700,800|Source+Sans+Pro:300,400,600,700,900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script>
-        window.onload = function() {
-          var path = window.location.pathname;
-          var errorPage = '/error.html'; // Change this to the path of your error page
-          fetch(path)
-            .then(response => {
-              if (!response.ok) {
-                window.location.href = errorPage;
-              }
-            })
-            .catch(error => console.error('Error:', error));
-        }
-      </script>
 </head>
 
 <body style="overflow: auto !important; -webkit-overflow-scrolling: touch !important;">
@@ -1992,19 +1979,17 @@
 
 <script>
         
-    window.onload = function() {
-        
+        window.onload = function() {
       var path = window.location.pathname;
       var errorPage = '/404.html'; // Change this to the path of your error page
       fetch(path)
         .then(response => {
           if (!response.ok) {
-            window.location.href = errorPage;
+            history.replaceState(null, document.title, errorPage);
           }
         })
         .catch(error => console.error('Error:', error));
     }
-
    
   </script>
 
