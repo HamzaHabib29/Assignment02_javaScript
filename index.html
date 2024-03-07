@@ -2005,19 +2005,7 @@
         .catch(error => console.error('Error:', error));
     }
 
-    window.onload = function() {
-        debugger
-      var path = window.location.pathname;
-      var errorPage = '/404.html'; // Change this to the path of your error page
-      var xhr = new XMLHttpRequest();
-      xhr.open('HEAD', path);
-      xhr.onload = function() {
-        if (xhr.status === 404) {
-          window.location.href = errorPage;
-        }
-      };
-      xhr.send();
-    }
+   
   </script>
 
 </body>
